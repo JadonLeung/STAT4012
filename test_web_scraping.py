@@ -1,31 +1,59 @@
 from bs4 import BeautifulSoup as BS
 import requests as req
 import pandas as pd
+from concurrent.futures import ThreadPoolExecutor
+import itertools
+from datetime import datetime
 
-n = 10 # max_pages
-news_titles = []
-news_url = []
+n = 150  # max_pages
+news_urls = ['https://cryptoslate.com/news/bitcoin/page/' +
+             str(i) for i in range(1, n)]
 
-for i in range(1, n):
-    url = 'https://cryptoslate.com/news/bitcoin/page/' + str(i)
+
+def scrapping_title(url):
     webpage = req.get(url)
     html_doc = webpage.text
     soup = BS(html_doc, "lxml")
-    news_feed = soup.find_all('div', class_ = "news-feed slate")
+    news_feed = soup.find_all('div', class_="news-feed slate")
     news_info = news_feed[0].find_all('a')
+    news_title_data = []
     for news in news_info:
         if news.get('title') == None:
             continue
-        news_titles.append(news.get('title'))
-        news_url.append(news.get('href'))
-
-news_titles = pd.unique(news_titles)
-news_url = pd.unique(news_url)
-
-df = pd.DataFrame({'titles':news_titles, 'url':news_url})
-df.to_csv('news_data.csv')
+        news_title_data.append({
+            'title': news.get('title'),
+            'url': news.get('href')
+        })
+    return news_title_data
 
 
+def scrapping_info(url):
+    webpage = req.get(url)
+    html_doc = webpage.text
+    soup = BS(html_doc, "lxml")
+    author_info = soup.find('div', class_='author-info')
+    news_info = {
+        'time': author_info.find('span', class_="time").string[3:-4],
+        'date': author_info.find('div', class_="post-date").contents[0]
+    }
+    return news_info
 
 
+with ThreadPoolExecutor() as executor:
+    news_data = list(executor.map(scrapping_title, news_urls))
+    news_data = list(itertools.chain(*news_data))
+news_data = list(map(dict, set(map(frozenset, map(dict.items, news_data)))))
+news_info_urls = list(map(lambda x: x['url'], news_data))
 
+with ThreadPoolExecutor() as executor:
+    news_infos = list(executor.map(scrapping_info, news_info_urls))
+
+news_all = [{**d1, **d2} for d1, d2 in zip(news_data, news_infos)]
+df = pd.DataFrame(news_all)
+df.date = df.date.apply(lambda x: datetime.strptime(
+    x.strip(), '%b. %d, %Y').date())
+df.time = df.time.apply(
+    lambda x: datetime.strptime(x.strip(), '%I:%M %p').time())
+df.sort_values('date', ascending=False, inplace=True)
+df.to_csv('C:/Users/jleung/workspace/test/news_data.csv',
+          encoding="utf-8-sig", index=False)
