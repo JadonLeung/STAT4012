@@ -8,33 +8,31 @@ from datetime import datetime
 n = 150  # max_pages
 news_urls = ['https://cryptoslate.com/news/bitcoin/page/' +
              str(i) for i in range(1, n)]
+session = req.Session()
 
 
 def scrapping_title(url):
-    webpage = req.get(url)
+    webpage = session.get(url)
     html_doc = webpage.text
     soup = BS(html_doc, "lxml")
-    news_feed = soup.find_all('div', class_="news-feed slate")
-    news_info = news_feed[0].find_all('a')
+    news_feed = soup.select_one('div.news-feed.slate')
+    news_info = news_feed.select('a')
     news_title_data = []
-    for news in news_info:
-        if news.get('title') == None:
-            continue
-        news_title_data.append({
-            'title': news.get('title'),
-            'url': news.get('href')
-        })
+    news_title_data = [{
+        'title': news.get('title'),
+        'url': news.get('href')
+    } for news in news_info if news.get('title')]
     return news_title_data
 
 
 def scrapping_info(url):
-    webpage = req.get(url)
+    webpage = session.get(url)
     html_doc = webpage.text
     soup = BS(html_doc, "lxml")
-    author_info = soup.find('div', class_='author-info')
+    author_info = soup.select_one('div.author-info')
     news_info = {
-        'time': author_info.find('span', class_="time").string[3:-4],
-        'date': author_info.find('div', class_="post-date").contents[0]
+        'time': author_info.select_one('span.time').string[3:-4],
+        'date': author_info.select_one('div.post-date').contents[0]
     }
     return news_info
 
