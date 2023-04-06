@@ -6,7 +6,7 @@ Completed:
 3. Labelling data 
 
 To do list:
-1. Feature engineering / transforming title data
+1. Feature engineering / transforming title data - Winnie
 2. Model training (construction, tuning, evaluation): RNN (LSTM) - Winnie
 3. 2-3 Model for comparison: KNN, Logistic regression, Classification tree (proposed)
 4. Backtest (calculate return and win rate of the model) - Jadon
