@@ -26,3 +26,4 @@ The project will involve several steps. First, we will collect news headlines fr
 The dataset will be split into training and testing sets, with the training set used to train the model and the testing set used to evaluate its performance. Next, we will use NLP techniques to analyze the sentiment of each headline.
 
 We will use the sentiment analysis with Multi-layer Perceptron and Recurrent Neural Network results to generate buy, sell, or hold signals for Bitcoin trading, based on the expected price movements in the 5 minutes following each news release. We will evaluate the performance of our models using metrics such as accuracy, precision, and recall and compare them with other machine learning models like KNN and logistic regression.
+
