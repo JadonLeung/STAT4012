@@ -4,7 +4,7 @@ import numpy as np
 prc = pd.read_csv('BTCUSDT_1min.csv', index_col=0)
 prc.index = pd.to_datetime(prc.index)
 news = pd.read_csv('news_data.csv')
-time_freq = 60
+time_freq = 15
 ret = prc['close']/prc['open'].shift(time_freq) - 1
 prc['ret'] = ret.shift(-time_freq-1)
 
@@ -19,8 +19,8 @@ data_train = data[:split_id]
 data_test = data[split_id:]
 pos_median = data_train['ret'][data_train['ret'] > 0].median()
 neg_median = data_train['ret'][data_train['ret'] < 0].median()
-data_train['label'] = data_train['ret'].apply(lambda x: 1 if x > pos_median else (-1 if x < neg_median else 0))
-data_test['label'] = data_test['ret'].apply(lambda x: 1 if x > pos_median else (-1 if x < neg_median else 0))
+data_train['label'] = data_train['ret'].apply(lambda x: 'buy' if x > pos_median else ('sell' if x < neg_median else 'none'))
+data_test['label'] = data_test['ret'].apply(lambda x: 'buy' if x > pos_median else ('sell' if x < neg_median else 'none'))
 data_train.to_csv('data_train.csv')
 data_test.to_csv('data_test.csv')
 
