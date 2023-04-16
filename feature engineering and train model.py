@@ -19,8 +19,6 @@ new_Index=[str(i) for i in list2]
 testdata.columns=new_Index
 testdata.head(5)
 
-train_dataset = data.shuffle(BUFFER_SIZE).batch(BATCH_SIZE).prefetch(tf.data.AUTOTUNE)
-
 for i,row in data.items(): 
     data.iloc[i]=data.iloc[i].lower()
 
