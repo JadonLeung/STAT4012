@@ -14,7 +14,7 @@ def scrapping(file_name):
     heading_tags = S.find_all('b', class_='printheadline enHeadline')
     fields_tags = S.find_all('div', class_='leadFields')
     news_data = [{
-        'heading': re.sub(r' -- (Barrons.com|WSJ)', '', tag1.text),
+        'heading': tag1.text,
         'news_provider': tag2.text.split(',')[0],
         'date': tag2.text.split(',')[2],
         'time': tag2.text.split(',')[1],
@@ -39,5 +39,8 @@ df.time = df.time.apply(
 df.wordcount = df.wordcount.apply(lambda x: int(x[:-5]))
 df.sort_values(['date', 'time'], ascending=False, inplace=True)
 df.drop_duplicates('heading', keep='last', inplace=True)
+djonly = df[df.news_provider.str.contains('Dow Jones')]
 df.to_csv('C:/Users/jleung/workspace/test/dow_jones_news_data.csv',
           encoding="utf-8-sig", index=False)
+djonly.to_csv('C:/Users/jleung/workspace/test/only_dow_jones_news_data.csv',
+              encoding="utf-8-sig", index=False)
