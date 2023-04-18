@@ -1,234 +1,291 @@
-datetime,title,datetime,ret,label
-2023-01-05 19:09:00,"Research: Bitcoin super whales remain aggressive accumulators, retail sells",2023-01-05 19:09:00,0.0011891778286905463,0
-2023-01-06 07:30:00,Genesis owner Digital Currency Group shuts down wealth management subsidiary,2023-01-06 07:30:00,0.0003332946473473264,0
-2023-01-06 11:42:00,Mt. Gox extends deadline for BTC repayment registration,2023-01-06 11:42:00,-0.000558328620880455,0
-2023-01-06 13:49:00,"Bitcoin peaks to $16,800 on higher-than-expected US payroll data",2023-01-06 13:49:00,-0.0023391987126957225,0
-2023-01-06 20:26:00,Poolin Bitcoin mining hash rate share falls by 94% from ATH,2023-01-06 20:26:00,-0.001596385773170561,0
-2023-01-07 11:14:00,"Stagnant BTC reached 15 million BTC, unmoved in 6 months",2023-01-07 11:14:00,2.54190147235267e-05,0
-2023-01-07 15:00:00,Bitcoin’s annualized 3-month futures basis show a calm before the storm,2023-01-07 15:00:00,0.00012459249102914072,0
-2023-01-09 11:30:00,"Bitcoin in 2023: A Bitcoin market analysis, developer hacks & wallet security – BitTalk #3",2023-01-09 11:30:00,-0.001704997251965934,0
-2023-01-09 12:45:00,CryptoSlate Daily wMarket Update: Monster gains for Gala and Zilliqa overshadow large caps,2023-01-09 12:45:00,0.00010380873675219782,0
-2023-01-09 13:20:00,HIVE produced 213.8 BTC in December 2022,2023-01-09 13:20:00,-0.0010177949012936116,0
-2023-01-09 18:32:00,"Research: Bitcoin shrimp, crab cohorts aggressively buying; ETH equivalent cohorts selling",2023-01-09 18:32:00,-0.002591131027255389,0
-2023-01-09 19:15:00,Bitcoin surpasses $17K for first time since early December,2023-01-09 19:15:00,-0.005025624222678049,-1
-2023-01-10 07:30:00,Bitcoin fundamentals remain unchanged despite the significant events in 2022,2023-01-10 07:30:00,0.003272683705326962,1
-2023-01-10 10:15:00,Core Scientific under investigation over securities fraud,2023-01-10 10:15:00,0.001550842581938161,0
-2023-01-10 12:45:00,CryptoSlate Daily wMarket Update: Large caps take a breather following pump,2023-01-10 12:45:00,0.00033999100706383345,0
-2023-01-10 16:55:00,"Binance annual revenue grew 10x over the past 2 years, while OKX’s grew 4x",2023-01-10 16:55:00,0.000863616722854843,0
-2023-01-10 17:18:00,"GBTC shares jump 12%, narrowing discount to 38%",2023-01-10 17:18:00,0.0022203058638832207,0
-2023-01-11 03:42:00,Group One purchases 13.5% of MicroStrategy’s share,2023-01-11 03:42:00,4.651288320745017e-05,0
-2023-01-11 12:45:00,CryptoSlate Daily wMarket Update: AI narrative holds firm as SingularityNet leads top gainers,2023-01-11 12:45:00,-0.0012481011524553276,0
-2023-01-11 13:20:00,Crypto market fund outflows drop to $9.7M as negative sentiment falls,2023-01-11 13:20:00,-0.002924114133371236,0
-2023-01-11 14:00:00,BlockFi creditors appeal court to redact their information,2023-01-11 14:00:00,0.00010970107891861147,0
-2023-01-11 17:29:00,Bitcoin worth $120M withdrawn from exchanges on Jan. 10,2023-01-11 17:29:00,0.006045637633303347,1
-2023-01-11 20:35:00,Research: Bitcoin remains under pressure ahead of CPI data; Michael Burry makes stagflation call,2023-01-11 20:35:00,0.0011615853014959043,0
-2023-01-12 02:25:00,"BTC surges near $18,300",2023-01-12 02:25:00,-0.000930694501996232,0
-2023-01-12 03:00:00,El Salvador approves Bitcoin bond by passing bill,2023-01-12 03:00:00,0.0009343853820598103,0
-2023-01-12 09:00:00,Grayscale says recent events will not affect GBTC conversion case against SEC,2023-01-12 09:00:00,0.0006200618959564252,0
-2023-01-12 12:45:00,CryptoSlate Daily wMarket Update: Ethereum posts 9 week high to lead the top 10 cryptos,2023-01-12 12:45:00,-0.0014512785072563483,0
-2023-01-12 13:39:00,Bitcoin holds steady as Consumer Price Index data comes in as expected,2023-01-12 13:39:00,-0.0006921971209460365,0
-2023-01-12 16:35:00,MetaMask warns of ‘address poisoning’ wallet scam,2023-01-12 16:35:00,0.018271959520989478,1
-2023-01-12 21:55:00,"Bitcoin approaches $19,000 price mark",2023-01-12 21:55:00,0.0029919003392799848,1
-2023-01-13 11:45:00,Total crypto market cap exceeds $900B – marking 9 week high,2023-01-13 11:45:00,-0.002008210362809182,0
-2023-01-13 12:45:00,"CryptoSlate Daily wMarket Update: Bitcoin hits $19,000 as market cap crosses $900B",2023-01-13 12:45:00,0.0005138882266617628,0
-2023-01-13 17:45:00,Research: BTC Hash Ribbon indicator signals miner capitulation could be almost over,2023-01-13 17:45:00,0.001968826737019924,0
-2023-01-14 01:27:00,"Bitcoin breaks $21,000 alongside $255M of 24-hour spot purchases",2023-01-14 01:27:00,0.010228519217649001,1
-2023-01-16 08:00:00,"Bitcoin mining difficulty rose 10%, hits new ATH",2023-01-16 08:00:00,-0.01609308249529018,-1
-2023-01-16 08:55:00,Binance assists in recovering $3M from Harmony bridge hack,2023-01-16 08:55:00,0.0025795009113467327,0
-2023-01-16 12:30:00,Bitcoin moves toward neutral sentiment on Fear & Greed index,2023-01-16 12:30:00,-0.00044115776310449384,0
-2023-01-16 17:00:00,"Research: Buoyant price action has Bitcoin options traders eyeing $30,000",2023-01-16 17:00:00,0.004773489105669881,1
-2023-01-17 15:46:00,Bitcoin mining emissions down 10% as Kazakhstan’s hash rate share decreases,2023-01-17 15:46:00,0.00629718385160527,1
-2023-01-17 19:55:00,Research: A review of bitcoin mining company holdings in 2022,2023-01-17 19:55:00,-0.0020416722312426305,0
-2023-01-18 09:30:00,WBTC supply on Ethereum dropped 35% since LUNA collapse,2023-01-18 09:30:00,-0.0012453839165278424,0
-2023-01-18 10:20:00,Active crypto developers grew 5% YoY despite market decline,2023-01-18 10:20:00,-0.001934734941313132,0
-2023-01-18 17:42:00,"Bitcoin sinks 4% to $20,400 as US producer prices show inflation easing",2023-01-18 17:42:00,-0.001993019180541511,0
-2023-01-18 19:42:00,"Research: Bitcoin Spot to Futures ratio shows retail drove price above $20,000",2023-01-18 19:42:00,-0.010649613529408186,-1
-2023-01-19 14:30:00,Why is Bitcoin pumping in 2023? – BitTalk #4,2023-01-19 14:30:00,0.004418963310918622,1
-2023-01-19 14:45:00,Number of ETH holders grew 3.6x to 87M in 2022,2023-01-19 14:45:00,0.0033890513637468977,1
-2023-01-19 17:49:00,Research: On-chain metrics continue signaling a Bitcoin bottom,2023-01-19 17:49:00,0.004985089305998391,1
-2023-01-20 04:00:00,Bitcoin mining council Q4 2022 briefing shows a drop in sustainable energy usage,2023-01-20 04:00:00,-0.004942867508103355,-1
-2023-01-20 13:55:00,"Former head of FTX.US raises $5M from Coinbase, Circle for a new crypto startup",2023-01-20 13:55:00,0.005009275379948441,1
-2023-01-21 15:00:00,Differentiating Bitcoin from the rest of the crypto market: Part 1,2023-01-21 15:00:00,0.0018499071781099552,0
-2023-01-21 16:05:00,"Bitcoin up 50% from bear market low outperforming SPY, Gold",2023-01-21 16:05:00,0.0074797963631070274,1
-2023-01-22 12:15:00,ASIC financing debt worsened Bitcoin miner’s liabilities in 2022: Report,2023-01-22 12:15:00,0.006281878864054846,1
-2023-01-22 15:00:00,Metrics indicate bullish sentiment as illiquid Bitcoin supply reaches 80%,2023-01-22 15:00:00,-0.00798412050044961,-1
-2023-01-23 10:25:00,Axie Infinity AXS rises 42% despite imminent token unlock,2023-01-23 10:25:00,-0.0020716203719665094,0
-2023-01-23 11:25:00,Coinbase CEO suggests BTC as alternative to proposed new S. American currency ‘sur’,2023-01-23 11:25:00,-0.0005240373163519774,0
-2023-01-23 12:30:00,Bitcoin back to 15th-largest market cap following fall to 26th in 2022,2023-01-23 12:30:00,0.000536562797088358,0
-2023-01-23 21:07:00,"Research: Investors hold Bitcoin, Ethereum over stablecoins in risk-off environment",2023-01-23 21:07:00,0.002033145187207097,0
-2023-01-24 01:00:00,Pantera CEO calls 2023 ‘best time ever’ to start a crypto company with $121B VC funding available,2023-01-24 01:00:00,0.005019239693922151,1
-2023-01-24 08:40:00,BlockFi plans to sell $160M worth of BTC miner-backed loans,2023-01-24 08:40:00,-0.012371310935141655,-1
-2023-01-24 08:50:00,El Salvador President criticizes ‘legacy’ media outlets’ unfair coverage,2023-01-24 08:50:00,-0.007501580718101364,-1
-2023-01-24 11:00:00,Gemini Earn customers face potential $485M shortfall in Genesis bankruptcy case,2023-01-24 11:00:00,0.0004666950438207973,0
-2023-01-24 12:45:00,CryptoSlate Daily wMarket Update: Stagnant 24 hour run sees BNB lead top 10,2023-01-24 12:45:00,-0.00558872873716032,-1
-2023-01-24 16:48:00,"Bitcoin continues price rally, posts best January returns since 2013",2023-01-24 16:48:00,0.0003338139555206787,0
-2023-01-25 06:15:00,Genesis subsidiary sues ‘Bitcoin Jesus’ for $20.86M,2023-01-25 06:15:00,0.0031686038940546,1
-2023-01-25 15:40:00,Arizona senator keeps pushing to make Bitcoin legal tender,2023-01-25 15:40:00,0.0041324479546938075,1
-2023-01-25 21:52:00,Research: Withdrawal price – A new way of assessing Bitcoin,2023-01-25 21:52:00,-0.01289900200696903,-1
-2023-01-26 07:00:00,Crypto market rebound liquidates over $200M,2023-01-26 07:00:00,-0.003599116344123021,-1
-2023-01-26 07:45:00,"Dark web hitmen paid $60,000 BTC to kidnap estranged wife",2023-01-26 07:45:00,0.002587986085384797,0
-2023-01-26 11:45:00,"Elizabeth Warren urges stricter regulation, says solution to crypto fraud begins with the SEC",2023-01-26 11:45:00,0.0059614770078462165,1
-2023-01-26 12:15:00,Microsoft switches Metaverse focus from social to business,2023-01-26 12:15:00,0.0023781238713158626,0
-2023-01-26 12:45:00,CryptoSlate Daily wMarket Update: Solana and Cardano lead market recovery,2023-01-26 12:45:00,-0.0003304236134659133,0
-2023-01-27 01:52:00,"SEC re-declines Bitcoin ETF from ARK, 21Shares",2023-01-27 01:52:00,0.006398969521186126,1
-2023-01-29 06:00:00,Bitcoin wallet cracking competition unbeaten as seed words revealed,2023-01-29 06:00:00,-0.002963218348309926,-1
-2023-01-29 19:00:00,"Bitcoin difficulty hits new ATH rising by 4.68%, further securing the network",2023-01-29 19:00:00,0.006105244393528553,1
-2023-01-29 22:01:00,"Bitcoin surpasses $23.5k, approaches $24k",2023-01-29 22:01:00,0.0006509716245293173,0
-2023-01-30 01:00:00,2019 Bitcoin investors back in profit above $21.8k,2023-01-30 01:00:00,-0.0032515742901950695,-1
-2023-01-30 08:25:00,Bitcoin premium in Nigeria tops 164% amid demonetization,2023-01-30 08:25:00,-0.013446724558222045,-1
-2023-01-30 12:45:00,"CryptoSlate Daily wMarket Update: Bitcoin loses momentum after failing to break $24,000 resistance",2023-01-30 12:45:00,0.00235335793050373,0
-2023-01-30 13:52:00,"Crypto investment products see weekly inflows of $117M, highest since July 2022",2023-01-30 13:52:00,0.0072836122837183215,1
-2023-01-30 14:30:00,Bitcoin closes 4 consecutive weekly green candles for first time since August 2021,2023-01-30 14:30:00,-0.0005496522823729144,0
-2023-01-31 10:10:00,Crypto ETPs sees 9000 BTC inflow in January,2023-01-31 10:10:00,-0.0006245620848827071,0
-2023-01-31 12:54:00,CryptoSlate Daily wMarket Update: Dogecoin rally defies overall market sentiment,2023-01-31 12:54:00,0.00731654746571464,1
-2023-01-31 17:00:00,Research: Bitcoin futures open interest grows ahead of FOMC meeting,2023-01-31 17:00:00,0.0006981536560930479,0
-2023-01-31 18:47:00,"Bitcoin miner Greenidge lost $130M in 2022 Q4; restructures debt with NYDIG, B. Riley",2023-01-31 18:47:00,-0.0007276861264439161,0
-2023-02-01 12:45:00,CryptoSlate Daily wMarket Update: Market sentiment green in anticipation of Fed rate hike,2023-02-01 12:45:00,-0.00034128318145221215,0
-2023-02-01 15:00:00,CoinShares CEO says lack of political will hindering US regulatory landscape,2023-02-01 15:00:00,-0.00559099414404618,-1
-2023-02-01 16:56:00,"M31 Capital bullish on BTC price, adoption in 2023 predictions",2023-02-01 16:56:00,0.0013094020905146664,0
-2023-02-01 19:11:00,"Bitcoin reaches $23,700 as Fed raises interest rates by 25 basis points",2023-02-01 19:11:00,0.0106773276847143,1
-2023-02-02 11:30:00,"Bitcoin taps $24,000 for the first time since August 2022",2023-02-02 11:30:00,-0.0007700316279475317,0
-2023-02-02 13:00:00,Are Ordinals NFTs ruining Bitcoin? – BitTalk #5,2023-02-02 13:00:00,-0.0012773346032423083,0
-2023-02-02 13:15:00,Bitcoin purists slam Luxor’s support of ‘magic internet jpegs’,2023-02-02 13:15:00,0.0016448129498520814,0
-2023-02-02 18:59:00,"Research: Asia, EU, US are bullish on Bitcoin, Ethereum",2023-02-02 18:59:00,-0.011037296342531477,-1
-2023-02-02 20:06:00,Ray Dalio gives his take on building a better Bitcoin,2023-02-02 20:06:00,-0.0021484749019832217,0
-2023-02-02 22:30:00,MicroStrategy’s Bitcoin holdings were valued at $2.2B in Q4 2022,2023-02-02 22:30:00,-0.0012185917428834125,0
-2023-02-03 12:05:00,Harmony hacker moves $726k worth of stolen WETH,2023-02-03 12:05:00,0.00031599325654241284,0
-2023-02-03 12:20:00,Central Bank of Sri Lanka insists Bitcoin will not fix economic crisis,2023-02-03 12:20:00,5.3604566768727935e-05,0
-2023-02-03 12:45:00,"CryptoSlate Daily wMarket Update: Bears take control as Bitcoin dips to $23,500",2023-02-03 12:45:00,-0.00812164103723445,-1
-2023-02-03 13:48:00,"Bitcoin drops to $23,250 on significantly higher-than-expected US payroll data",2023-02-03 13:48:00,0.00977381422971546,1
-2023-02-03 19:03:00,"Research: BTC price surge increases miner profitability, indicating market bottom",2023-02-03 19:03:00,-0.005737561673019642,-1
-2023-02-03 22:08:00,Craig Wright’s lawsuit against multiple Bitcoin developers will go to trial,2023-02-03 22:08:00,0.0009942614103892744,0
-2023-02-05 19:00:00,Op-ed: On Bitcoin and why there is no second best – Part 2,2023-02-05 19:00:00,0.001755560039409243,0
-2023-02-05 20:30:00,BTC long-term HODLers hit all-time high as Bitcoiners refuse to sell,2023-02-05 20:30:00,-0.0012915103381933024,0
-2023-02-06 11:30:00,Crypto companies scale back massively for Super Bowl LVII,2023-02-06 11:30:00,0.004716755097581737,1
-2023-02-06 12:45:00,CryptoSlate Daily wMarket Update: AI tokens shine despite wider market sell-off,2023-02-06 12:45:00,-0.0020876016266369035,0
-2023-02-06 15:30:00,Over $76M invested in crypto funds in past 7 days,2023-02-06 15:30:00,0.012380178374269857,1
-2023-02-06 16:01:00,Riot Platforms’ Bitcoin production hits ATH in January,2023-02-06 16:01:00,-0.0022245936556533064,0
-2023-02-06 20:34:00,"Data on Taproot Ordinals points to higher Bitcoin fees, chain bloat",2023-02-06 20:34:00,-0.0008096419573681013,0
-2023-02-07 08:10:00,UN says North Korea stole $630m of crypto last year in lowball estimate,2023-02-07 08:10:00,0.002765057088008893,1
-2023-02-07 13:08:00,CryptoSlate Daily wMarket Update: Overall market sentiment green as AI tokens establish their rise,2023-02-07 13:08:00,-0.0015167753616575075,0
-2023-02-07 18:35:00,Grayscale continues to challenge SEC for spot Bitcoin ETF conversion,2023-02-07 18:35:00,0.01031031998645826,1
-2023-02-08 12:45:00,CryptoSlate Daily wMarket Update: Polygon leads top 10 second day running,2023-02-08 12:45:00,-0.002431000148405249,0
-2023-02-08 19:34:00,Smaller exchanges see around $200M in Bitcoin withdrawn over past week,2023-02-08 19:34:00,0.0015402461590221517,0
-2023-02-09 00:48:00,Craig Wright loses U.K. case as judge rules Bitcoin file format can’t be copyrighted,2023-02-09 00:48:00,0.0004836856322272265,0
-2023-02-09 08:40:00,"Argo Blockchain CEO, Interim Chairman Peter Wall steps down",2023-02-09 08:40:00,-0.00037736447243386095,0
-2023-02-09 10:15:00,Ordinal Punks emerge as leading Bitcoin NFT collection,2023-02-09 10:15:00,-0.0017688886854502206,0
-2023-02-09 13:40:00,LocalBitcoins P2P marketplace to shutter services,2023-02-09 13:40:00,-0.0017270762388332805,0
-2023-02-09 14:59:00,"Research: BTC, ETH address momentum shows significant divergence",2023-02-09 14:59:00,-0.0038385914383238795,-1
-2023-02-09 15:54:00,Russian government gives green light to crypto mining operation in Siberia,2023-02-09 15:54:00,-0.005541117266924744,-1
-2023-02-11 21:00:00,Unpacking the basics of Bitcoin nodes and Taproot functionality – BitTalk6,2023-02-11 21:00:00,0.0059408142801040675,1
-2023-02-12 17:13:00,2022 realized cap drawdown was second worst in Bitcoin’s history,2023-02-12 17:13:00,-0.002157722179303878,0
-2023-02-12 18:30:00,IMF issues warning on El Salvador’s Bitcoin experiment amid calls for greater transparency,2023-02-12 18:30:00,0.00022219955705771177,0
-2023-02-13 13:15:00,Messari founder accuses SEC Chair Gensler of foul play,2023-02-13 13:15:00,-0.001306464106921923,0
-2023-02-13 21:05:00,"Bitcoin’s top and bottom correlation with gold, the S&P 500, and US property",2023-02-13 21:05:00,-0.000850595509262253,0
-2023-02-14 02:51:00,Crypto investor burns a Bored Ape for a Bitcoin Ordinal equivalent,2023-02-14 02:51:00,2.1646756256599176e-05,0
-2023-02-14 17:44:00,"Peter Schiff deems Kevin O’Leary, Mark Cuban crypto sell-outs",2023-02-14 17:44:00,0.0024018616128533843,0
-2023-02-14 19:05:00,Research: Self-custody continues to grow as Bitcoin withdrawals outpace deposits,2023-02-14 19:05:00,0.004608507700838649,1
-2023-02-15 08:25:00,GBTC discount widens to highest point in 2023,2023-02-15 08:25:00,0.0002474246576085193,0
-2023-02-15 12:46:00,CryptoSlate Daily wMarket Update: Dogecoin leads top 10 assets bullish market sentiment,2023-02-15 12:46:00,-0.0029886656925115496,-1
-2023-02-15 15:50:00,HIVE Blockchain delays financial filings till Feb. 28,2023-02-15 15:50:00,0.0018262933497428246,0
-2023-02-15 17:38:00,Bitcoiners direct Jordan Peterson to Lightning Network over GoFundMe,2023-02-15 17:38:00,0.005234933605720249,1
-2023-02-15 19:35:00,Someone uploaded a fart as a Bitcoin Ordinal NFT and sold it for $280k,2023-02-15 19:35:00,0.03143453900246307,1
-2023-02-15 22:12:00,Bitcoin passes $24k for 2nd time in February,2023-02-15 22:12:00,0.00041635271718631905,0
-2023-02-16 17:41:00,Bitcoin briefly soars beyond $25k; $232M in shorts liquidated,2023-02-16 17:41:00,0.002049635678261108,0
-2023-02-17 10:10:00,"CZ: ‘Landscape is shifting,’ following 15% drop in BUSD market cap",2023-02-17 10:10:00,0.0013140582322861416,0
-2023-02-17 12:45:00,"CryptoSlate Daily wMarket Update: Bitcoin dumps to $23,800 after brief rally above $25,000",2023-02-17 12:45:00,-0.0027341999103541736,0
-2023-02-17 13:00:00,‘Communist Bitcoiners’ exposed by Ordinals as control freaks,2023-02-17 13:00:00,-0.0035412446536879916,-1
-2023-02-17 17:03:00,MicroStrategy has raised $46.6M via share sales since September,2023-02-17 17:03:00,0.009144533838301827,1
-2023-02-17 17:37:00,Research: Public Bitcoin Miners in better financial health despite 12.1% YoY drop in BTC holdings,2023-02-17 17:37:00,-0.0033435503057925864,-1
-2023-02-18 18:32:00,The impact of Ordinals on Bitcoin mempools & transaction size,2023-02-18 18:32:00,-0.002652515607666883,0
-2023-02-19 16:17:00,Bitcoin breaks $25k once again as bullish momentum gains,2023-02-19 16:17:00,-0.02035705607979188,-1
-2023-02-20 12:45:00,"CryptoSlate Daily wMarket Update: Bitcoin nears $25,000 with renewed bullish sentiments",2023-02-20 12:45:00,0.0030324311293044026,1
-2023-02-20 14:35:00,Bitcoin layer2 Stacks Network up 50% in 24 hours,2023-02-20 14:35:00,0.0034646536954965335,1
-2023-02-21 12:45:00,"CryptoSlate Daily wMarket Update: Bitcoin rejected at $25,000 as mild sell-off wipes $20B from crypto market",2023-02-21 12:45:00,0.0005051969496498998,0
-2023-02-21 17:33:00,Digital asset investments recorded over $30M outflows in a week,2023-02-21 17:33:00,0.0078224829443585,1
-2023-02-22 13:03:00,CryptoSlate Daily wMarket Update: Another market dump sees Solana leading large cap losses,2023-02-22 13:03:00,-0.002884071919755149,0
-2023-02-22 16:05:00,Stacks’ 135% rally helps it reclaim $1B market cap,2023-02-22 16:05:00,-0.004387117311491773,-1
-2023-02-22 16:39:00,Iceland’s abundance of renewable energy boosts Bitcoin hashrate,2023-02-22 16:39:00,0.0034061865883570075,1
-2023-02-22 17:25:00,The on-chain metric that could signal a bear market reversal,2023-02-22 17:25:00,0.004197169515614885,1
-2023-02-23 22:55:00,"Ordinals, Nostr continue to dominate Bitcoin conversation – BitTalk#7",2023-02-23 22:55:00,0.0027436324236047582,1
-2023-02-24 18:38:00,Crypto mining facility integrates with web3 cloud computing infrastructure – GotGh #3,2023-02-24 18:38:00,-0.002717694461092268,0
-2023-02-27 12:45:00,CryptoSlate Daily wMarket Update: Ethereum leads large caps on 24-hour performance,2023-02-27 12:45:00,0.01302541358688547,1
-2023-02-27 14:35:00,Three generations theory: Aleksander Svetski’s latest op-ed gives Bitcoin maxis hope for new utopia,2023-02-27 14:35:00,-0.0016398529310844845,0
-2023-02-28 02:30:00,Bored Ape creators unveil Bitcoin Ordinals collection “TwelveFold”,2023-02-28 02:30:00,0.0006803069053709088,0
-2023-02-28 11:27:00,Coins.ph CEO says why hyper-tokenization will trump hyper-Bitcoinization,2023-02-28 11:27:00,0.005010701742292456,1
-2023-02-28 13:30:00,Bitcoin core developer distances himself from NFTs using his code without permission,2023-02-28 13:30:00,0.00017099073743165327,0
-2023-02-28 17:00:00,Bitcoin hash rate reaches ATH,2023-02-28 17:00:00,0.0028722107112100215,1
-2023-03-01 10:30:00,WBTC supply declined 15% in February,2023-03-01 10:30:00,0.0009133736532798142,0
-2023-03-01 21:00:00,"Nostr, Nostr, Nostr – Bitcoin development continues to thrive – BitTalk #8",2023-03-01 21:00:00,0.007020539092978062,1
-2023-03-03 12:40:00,"CryptoSlate Daily wMarket Update: Market sell-off sees Bitcoin sink to $22,000",2023-03-03 12:40:00,-0.00020231226809064307,0
-2023-03-03 14:00:00,Crypto community reacts as Bitcoin bear market fears continue,2023-03-03 14:00:00,-0.002646459612239749,0
-2023-03-06 12:58:00,"Flat weekend sees Bitcoin defend $22,200: CryptoSlate Daily wMarket Update",2023-03-06 12:58:00,0.001893974063896131,0
-2023-03-06 16:28:00,Bitcoin’s net emissions are down for 3rd month in a row,2023-03-06 16:28:00,0.0009720273128113188,0
-2023-03-06 17:02:00,Yuga Labs’ Bitcoin NFTs top bid is 2 BTC; draws criticism for auction model,2023-03-06 17:02:00,-0.0013352978686744787,0
-2023-03-06 18:42:00,Research: A look at how long-term holders determine end of bear markets,2023-03-06 18:42:00,-0.006175472737498633,-1
-2023-03-06 19:28:00,Netherlands ranked as most crypto-curious European country,2023-03-06 19:28:00,-0.0014595959731220631,0
-2023-03-06 20:24:00,TeraWulf’s nuclear-powered Bitcoin mining facility goes online,2023-03-06 20:24:00,0.0002318990296432677,0
-2023-03-07 13:59:00,Argo daily Bitcoin production rose 7% in Feb despite increased network difficulty,2023-03-07 13:59:00,-0.011138670862784084,-1
-2023-03-07 14:51:00,"XRP, Polygon top large cap gainers in range-bound crypto market: CryptoSlate Daily wMarket Update",2023-03-07 14:51:00,0.0003836846184153142,0
-2023-03-07 15:28:00,President Nayib Bukele credits Bitcoin for rebranding El Salvador’s legacy in new Tucker Carlson interview,2023-03-07 15:28:00,0.0005787253192326425,0
-2023-03-07 18:49:00,Binance’s PoR system shows over $63B in reserves backing 24 assets,2023-03-07 18:49:00,0.0007699839691863719,0
-2023-03-07 20:46:00,Missouri passes crypto mining protection law,2023-03-07 20:46:00,-0.0002752543612876135,0
-2023-03-08 10:29:00,Jack Dorsey’s payments company Block seeks input on mining kit,2023-03-08 10:29:00,0.002438652506085326,0
-2023-03-08 11:53:00,U.S. agency moves over 9k BTC to Coinbase: Glassnode,2023-03-08 11:53:00,-0.0033061730028186576,-1
-2023-03-08 12:34:00,XRP leads top 10 for second successive day: CryptoSlate Daily wMarket Update,2023-03-08 12:34:00,-0.002054112327439239,0
-2023-03-09 09:05:00,Mt. Gox pushes deadline for BTC repayment registration to April,2023-03-09 09:05:00,-0.002007715018982781,0
-2023-03-09 09:45:00,"Crypto buyers flee the market as headwinds intensify, global market cap falls below $1T",2023-03-09 09:45:00,-0.00042172997245559785,0
-2023-03-09 11:07:00,Silvergate troubles affecting crypto’s USD market depth,2023-03-09 11:07:00,0.0007374069058434518,0
-2023-03-09 15:00:00,Silvergate fallout as BTC banking options dwindle – BitTalk #9,2023-03-09 15:00:00,-0.003836476626993379,-1
-2023-03-09 15:54:00,Xapo bank integrates Bitcoin Lightning Network amid turmoil in crypto banking sector,2023-03-09 15:54:00,-0.00794717137431633,-1
-2023-03-09 19:16:00,Bitcoin miner Hut 8’s shares fall 9% after 2022 financial report,2023-03-09 19:16:00,-0.011169705226405258,-1
-2023-03-10 14:30:00,Bitcoin hashprice drops as miners face possible 30% energy tax,2023-03-10 14:30:00,-0.004935917127022016,-1
-2023-03-10 16:13:00,Cardano rises 6% against Bitcoin despite broad market sell-off,2023-03-10 16:13:00,-0.0033753056571284024,-1
-2023-03-11 02:44:00,SEC denies VanEck Bitcoin spot ETF for a third time; commissioners dissent,2023-03-11 02:44:00,-0.0023452490243617286,0
-2023-03-11 15:00:00,Op-ed: The pound’s decline paves the way for Bitcoin adoption in the UK,2023-03-11 15:00:00,-0.0028645038983284854,0
-2023-03-13 09:35:00,"Binance converts $1B BUSD to Bitcoin, Ethereum, BNB",2023-03-13 09:35:00,0.0054801243998272575,1
-2023-03-13 10:10:00,Money printer go brrr sparking crypto market recovery,2023-03-13 10:10:00,0.004387821589810104,1
-2023-03-13 12:45:00,CryptoSlate Daily wMarket Update: Crypto market cap regains $1T as Feds measures spark green run,2023-03-13 12:45:00,0.016936831399044783,1
-2023-03-13 15:29:00,Market rally pumps bankrupt crypto firm holdings,2023-03-13 15:29:00,-0.017169265004211343,-1
-2023-03-14 10:20:00,Short sellers lose over $200M with crypto market’s continued rally,2023-03-14 10:20:00,0.017060617574185644,1
-2023-03-14 11:00:00,CNBC host Jim Cramer claims Bitcoin is being “manipulated up”,2023-03-14 11:00:00,0.006782071466230111,1
-2023-03-14 15:00:00,Crypto therapist reports sharp rise in people seeking addiction help,2023-03-14 15:00:00,0.0015291318982719737,0
-2023-03-14 16:44:00,"Bitcoin surges to 39-week high, leaving Meta, Visa, TSMC, and Exxon Mobil in its dust",2023-03-14 16:44:00,-0.0026790692772286073,0
-2023-03-14 17:45:00,Short-sellers see max pain as crypto market pumps following inflation report,2023-03-14 17:45:00,-0.01397650973463982,-1
-2023-03-14 21:30:00,Bitcoin briefly breaches $26.4k only to tumble as prices fall again,2023-03-14 21:30:00,0.0031154763414424913,1
-2023-03-15 07:45:00,Binance ditches BUSD’s Bitcoin free trading for TUSD,2023-03-15 07:45:00,-0.0006694848714959845,0
-2023-03-15 10:20:00,Bitcoiners warned scopolamine robberies in Colombia pose threat to crypto security,2023-03-15 10:20:00,-0.006511915840747395,-1
-2023-03-17 08:10:00,US lawmaker says President Biden administration is weaponizing market chaos to kill crypto,2023-03-17 08:10:00,-0.0029085243432839247,0
-2023-03-17 10:55:00,Coinbase’s Grewal hails Ripple’s defense efforts: XRP relisting possible,2023-03-17 10:55:00,0.00842234511650064,1
-2023-03-17 11:45:00,"CryptoSlate Daily wMarket Update: Bitcoin taps $26,900 – posting a 39-week high",2023-03-17 11:45:00,-0.009091030942344203,-1
-2023-03-18 00:53:00,Bitcoin surges 10% hitting 9-month high,2023-03-18 00:53:00,-0.00221610147984741,0
-2023-03-20 11:45:00,CryptoSlate Daily wMarket Update: Bitcoin dominance spikes to 40-week high,2023-03-20 11:45:00,0.001914148639131641,0
-2023-03-20 11:50:00,El Salvador’s Bitcoin President receives 91% approval rating: La Pensa Grafia,2023-03-20 11:50:00,0.002601255275518577,0
-2023-03-20 13:10:00,Former Coinbase CTO’s $1M Bitcoin bet has zero chance of happening: Raoul Pal,2023-03-20 13:10:00,-0.009418348717773695,-1
-2023-03-20 14:05:00,Bitcoin spikes to 9-month high as central banks increase liquidity to mitigate banking crisis,2023-03-20 14:05:00,-0.0007133441387662254,0
-2023-03-21 10:45:00,Bitcoin boasts safe-haven characteristics during economic uncertainty: Galaxy,2023-03-21 10:45:00,-0.0002044801493668036,0
-2023-03-21 11:45:00,CryptoSlate Daily wMarket Update: XRP bucks cooling market trend,2023-03-21 11:45:00,0.00227517354758211,0
-2023-03-21 13:00:00,Bitcoin long-term holders locking in profits could lead to BTC price pullback,2023-03-21 13:00:00,-0.003467803501063238,-1
-2023-03-22 11:45:00,"CryptoSlate Daily wMarket Update: Rumors send XRP price, volume soaring",2023-03-22 11:45:00,0.002176336568815662,0
-2023-03-22 13:30:00,Former Coinbase CTO urges ‘get to Bitcoin’ before CBDC digital lockdown,2023-03-22 13:30:00,0.002614899562159767,1
-2023-03-22 22:15:00,"Bitcoin is not going to $1M, yet – BitTalk #11",2023-03-22 22:15:00,0.0064794457643111425,1
-2023-03-23 14:10:00,Circle CEO says ‘aggressive regulatory actions’ on crypto caused ‘deep market anxiety’,2023-03-23 14:10:00,0.03547904306457794,1
-2023-03-23 16:59:00,SEC issues investor alert over crypto investments,2023-03-23 16:59:00,-0.005233100626173326,-1
-2023-03-24 11:45:00,"CryptoSlate Daily wMarket Update: Bitcoin bulls successfully defend $27,800",2023-03-24 11:45:00,-0.006295227920227964,-1
-2023-03-24 12:10:00,Binance bug dumps BTC 1.39% – CZ assures ‘Funds are #SAFU’,2023-03-24 12:10:00,0.0037909544159544506,1
-2023-03-24 14:30:00,Bitcoin cannot be stopped – Regulators will only be playing Whack-a-Mole: Caitlin Long,2023-03-24 14:30:00,-0.008588676854362931,-1
-2023-03-24 22:28:00,Bitcoin makes partial recovery after 4% drop brings price near $27.2K,2023-03-24 22:28:00,0.0018966379738447614,0
-2023-03-25 15:24:00,Billionaire Tim Draper tells businesses to hold Bitcoin in the SVB aftermath,2023-03-25 15:24:00,0.004332666592355761,1
-2023-03-27 10:50:00,Binance Bitcoin trading volume plunges 13% – lowest level in 8 months,2023-03-27 10:50:00,-0.0014205751591741533,0
-2023-03-27 12:45:00,"CryptoSlate wMarket Update: Bitcoin meets resistance at $28,000 as liquidity concerns rise",2023-03-27 12:45:00,0.0028832582980131694,1
-2023-03-27 13:00:00,Theories abound as Bitcoin hash rate records unprecedented rise,2023-03-27 13:00:00,-0.001959959438176173,0
-2023-03-27 13:45:00,Accidentally burnt CryptoPunk #685 ‘resurrected’ – becomes first official CryptoPunk Ordinal,2023-03-27 13:45:00,-0.015043541134800775,-1
-2023-03-27 13:57:00,"MicroStrategy acquires Bitcoin worth $150M, makes repayment on Silvergate loan",2023-03-27 13:57:00,-0.021087544934130342,-1
-2023-03-28 12:45:00,"CryptoSlate wMarket Update: CFTC’s Binance lawsuit puts bears in control of market — pushes BTC below $27,000",2023-03-28 12:45:00,-0.0006345099923256159,0
-2023-03-28 15:40:00,Zero-knowledge proofs now live on Bitcoin,2023-03-28 15:40:00,-0.003921745585493297,-1
-2023-03-29 10:35:00,Potential crypto ban: Coin Center raises the alarm on the RESTRICT Act,2023-03-29 10:35:00,-0.0036703156316593155,-1
-2023-03-30 14:25:00,Denmark Supreme Court rules that Bitcoin gains are taxable,2023-03-30 14:25:00,-0.0003657688298710493,0
-2023-03-31 10:30:00,Stacks co-founder urges crypto community to fund Senator Warren’s opponents,2023-03-31 10:30:00,-0.002301240178386399,0
-2023-03-31 13:30:00,1 Year until the Bitcoin halving – BitTalk #12,2023-03-31 13:30:00,0.0050837784495996186,1
-2023-03-31 18:18:00,U.S. government sold over 9k BTC for $215.7M on March 14,2023-03-31 18:18:00,0.0013313964138226275,0
-2023-03-31 20:23:00,More than 50% of Bitcoin mining uses renewable energy,2023-03-31 20:23:00,0.00297988507064173,1
-2023-04-03 08:30:00,"Senator Warren says banks have ‘done really bad jobs’, advocates for CBDCs instead of Bitcoin",2023-04-03 08:30:00,-0.00020366641836755406,0
-2023-04-03 12:45:00,CryptoSlate wMarket Update: Cardano leads top 10 following flat weekend performance,2023-04-03 12:45:00,0.004520003825931651,1
-2023-04-03 18:33:00,"Bitfarms Q1 Bitcoin production rose 35% to 1,297 BTC YOY",2023-04-03 18:33:00,-0.001257656748424929,0
+datetime,heading,datetime,ret,label
+2023-01-17 13:34:00,  Press Release: Mawson Infrastructure Group Inc Announces December 2022 Operational Update,2023-01-17 13:34:00,0.0018695392285288381,0
+2023-01-17 14:20:00,"  Press Release: Bit Brother Received 1,400 Mining Machines and Expect to Generate Approximate 14.15 BTC Per Month",2023-01-17 14:20:00,0.008545194537695089,0
+2023-01-17 15:53:00,  This Is Bitcoin's Longest Winning Streak in Years. One Sign the Rally Is Built on Sand. -- Barrons.com,2023-01-17 15:53:00,-0.011943528319889318,-1
+2023-01-17 17:08:00,                             Coinbase Stock Is Soaring. It Might Be a Haven in a Wild Crypto Market. -- Barrons.com,2023-01-17 17:08:00,-0.009673672331323324,0
+2023-01-17 18:16:00,  A Crypto Magnate Saw the Risks and Still Was Hammered -- WSJ,2023-01-17 18:16:00,-0.013409060484304236,-1
+2023-01-18 07:32:00,"  Crypto CEO Spotted Risks, Still Was Hit -- WSJ",2023-01-18 07:32:00,-0.02142657355806643,-1
+2023-01-18 11:55:00,  Bitcoin Is Holding on to Gains. One Number That Would Signal the Bull Run Is Back. -- Barrons.com,2023-01-18 11:55:00,-0.022340858668586816,-1
+2023-01-18 14:30:00,  Press Release: Vortex Brands to Expand Bitcoin Mining Operation,2023-01-18 14:30:00,-0.030980718776552174,-1
+2023-01-18 17:46:00,  Press Release: Okcoin and Paradigm Partner on Grant for Bitcoin Core Maintainer Marco Falke,2023-01-18 17:46:00,-0.003282280413625549,0
+2023-01-19 08:00:00,"  Press Release: OKX Publishes January Proof of Reserves Report,Shows Largest 100% Clean Asset Reserves Among Major Exchanges",2023-01-19 08:00:00,0.005519444052449973,0
+2023-01-19 10:42:00,  Bitcoin Falls Back as Crypto's Big Rally Faces a Big Test. Why It Could Get Ugly. -- Barrons.com,2023-01-19 10:42:00,0.008401277406356433,0
+2023-01-19 14:00:00,  Press Release: CleanSpark Breaks Ground on 50 Megawatt Bitcoin Mining Expansion,2023-01-19 14:00:00,0.01362140969175707,1
+2023-01-19 15:38:00,  A Genesis Bankruptcy Is the Last Thing Crypto Needs. Bitcoin Could Get Bumpier. -- Barrons.com,2023-01-19 15:38:00,0.011396119089611911,1
+2023-01-19 17:44:00,  Billionaire Peter Thiel's Fund Exited Crypto Bet Before Market Crash -- WSJ,2023-01-19 17:44:00,0.02258168071333766,1
+2023-01-19 22:00:00,  Press Release: Compass Therapeutics Announces that the Phase 2 Data of CTX-009 in Combination with Paclitaxel in Patients with Biliary Trac...,2023-01-19 22:00:00,0.06627271007355495,1
+2023-01-20 09:32:00,  Crypto Lender Genesis Files for Bankruptcy. It's Not as Bad for Bitcoin as It Could Be. -- Barrons.com,2023-01-20 09:32:00,0.08617486028426624,1
+2023-01-20 12:01:00,  Bitcoin Is Steady Despite Genesis Bankruptcy. Two Signs Traders Are Bullish. -- Barrons.com,2023-01-20 12:01:00,0.09238129728796074,1
+2023-01-20 13:56:00,"  Crypto Crisis Latest: Genesis Bankruptcy, FTX's Digital Currency, Bitcoin Prices and More -- WSJ",2023-01-20 13:56:00,0.08929751971914479,1
+2023-01-20 18:28:00,  Bitcoin Is Calm. But Genesis Bankruptcy Could Cause Lasting Damage to Crypto. -- Barrons.com,2023-01-20 18:28:00,0.08424460515982335,1
+2023-01-23 10:22:00,  'Bitcoin Has Started a New Bull Market.' The Next Key Price Level to Watch. -- Barrons.com,2023-01-23 10:22:00,0.00029044336507255686,0
+2023-01-23 14:45:00,  Press Release: Bit Brother Announced 2.39 Bitcoin has been Mined,2023-01-23 14:45:00,0.0021039324218483646,0
+2023-01-24 10:10:00,  Bitcoin Is on a Bullish Streak. But a Deep Drop Could Come Fast When Sentiment Shifts. -- Barrons.com,2023-01-24 10:10:00,-0.015720903616694537,-1
+2023-01-24 11:31:00,"  Job Cuts Today, What Tomorrow? Big Tech Faces Some Big Tests. -- Barrons.com",2023-01-24 11:31:00,-0.013607548835476768,-1
+2023-01-24 12:07:00,  Bitcoin and Tech's Rally Bodes Well for the S&P 500. There's Just One Issue. -- Barrons.com,2023-01-24 12:07:00,-0.010643740211618846,0
+2023-01-24 13:30:00,  Press Release: Leading Bitcoin ATM Operator Bitcoin Depot Strengthens U.S. Footprint with New Retail Partnerships,2023-01-24 13:30:00,-0.012289112875310093,-1
+2023-01-24 14:00:00,  Press Release: Nate's Food Co. Announces Acquisition of 25 Additional S19j Pro Units,2023-01-24 14:00:00,-0.011873479063247427,-1
+2023-01-24 14:00:00,                             Nate's Food Co. Announces Acquisition of 25 Additional S19j Pro Units,2023-01-24 14:00:00,-0.011873479063247427,-1
+2023-01-24 14:21:00,  Traders Remain Skeptical Over Bitcoin After Recovery -- Market Talk,2023-01-24 14:21:00,-0.010688684664741266,0
+2023-01-24 15:10:00,"  Genesis Coin Inc, Powering 35% of Global Bitcoin ATM Transactions, Acquired by Bitstop Founders",2023-01-24 15:10:00,-0.015300664229144556,-1
+2023-01-24 18:04:00,                             Coinbase Stock Has Soared on Bitcoin's Rally. Watch for More 'Headwinds.' -- Barrons.com,2023-01-24 18:04:00,-0.011754558594521458,-1
+2023-01-24 20:31:00,"  As Parent Firm Struggles, Grayscale CEO Says All 'Energies' Focused on Creating ETF out of Largest Bitcoin Fund. -- Barrons.com",2023-01-24 20:31:00,-0.004866530265243529,0
+2023-01-25 10:04:00,  Bitcoin Pares Gains. Why the Coming Days Could Bring More Volatility. -- Barrons.com,2023-01-25 10:04:00,0.015464086150799305,1
+2023-01-25 11:45:00,  Press Release: Merck's KEYTRUDA(R) (pembrolizumab) Plus Chemotherapy Significantly Improved Overall Survival Versus Chemotherapy in First...,2023-01-25 11:45:00,0.016286915947406166,1
+2023-01-25 12:54:00,  Press Release: Iris Energy Announces Executive Update,2023-01-25 12:54:00,0.019422264874393802,1
+2023-01-25 15:01:00,  Press Release: GSR II Meteora Acquisition Corp. Announces Filing of Amended Proxy Statement,2023-01-25 15:01:00,0.027373470505440256,1
+2023-01-26 10:19:00,"  Bitcoin Holds at $23,000 After Hitting a 5-Month High. Watch This Key Price Level. -- Barrons.com",2023-01-26 10:19:00,-0.0003524125448410853,0
+2023-01-26 11:18:00,                             Tesla Keeps Losing Money on Bitcoin. But Elon Musk Is Still Holding. -- Barrons.com,2023-01-26 11:18:00,-0.00014432713685907927,0
+2023-01-26 12:25:00,  Let Bitcoin's New Bull Run Begin. One Key Sign That the Bear Market Is Over. -- Barrons.com,2023-01-26 12:25:00,-0.00455357917570498,0
+2023-01-26 22:13:00,"  Update: Bitcoin Is Overbought And Could See A Two-week Pullback, According To This Technical Indicator -- MarketWatch",2023-01-26 22:13:00,-0.001989774181650694,0
+2023-01-26 22:13:00,"  Bitcoin Is Overbought And Could See A Two-week Pullback, According To This Technical Indicator -- MarketWatch",2023-01-26 22:13:00,-0.001989774181650694,0
+2023-01-27 10:33:00,  Bitcoin Pauses. But Here's Why a Recent Trend Suggests a Big Spike Will Hit Friday. -- Barrons.com,2023-01-27 10:33:00,0.001348897964726703,0
+2023-01-27 14:15:00,  *Akerna Corp. Announces Merger With Gryphon Digital Mining And Sale Of Software Business To POSaBIT >KERN,2023-01-27 14:15:00,0.003169529885823641,0
+2023-01-27 22:47:00,  Press Release: IRIS ENERGY SHAREHOLDER ACTION REMINDER: Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffere...,2023-01-27 22:47:00,-0.0010427460746105233,0
+2023-01-28 12:00:00,  Press Release: ARGO SHAREHOLDER ACTION REMINDER: Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losse...,2023-01-28 12:00:00,0.019471096000866828,1
+2023-01-30 10:30:00,  Investors Who Bet on Bitcoin Fund in Retirement Accounts Pay the Price -- WSJ,2023-01-30 10:30:00,-0.015846348441732605,-1
+2023-01-30 10:33:00,"  Bitcoin Holds $23,000 as Crypto Traders Brace for Fed Decision. What Comes Next. -- Barrons.com",2023-01-30 10:33:00,-0.01735119984167255,-1
+2023-01-30 13:07:00,"  Crypto Crisis: The Latest on Sam Bankman-Fried, Grayscale and Bitcoin Prices -- WSJ",2023-01-30 13:07:00,-0.0076022687702800296,0
+2023-01-30 22:01:00,"  Competitor Sues Manager of the Largest Bitcoin Fund, Alleging Deceptive Practices -- Barrons.com",2023-01-30 22:01:00,0.008972773774287512,0
+2023-01-31 07:32:00,                             Bitcoin Trust Trades at Discount -- WSJ,2023-01-31 07:32:00,0.009635291861312956,0
+2023-01-31 10:35:00,  Bitcoin Is Having Its Best January Since 2013. Now It's Sliding by the Most Since FTX Failed. -- Barrons.com,2023-01-31 10:35:00,0.0031132382527245817,0
+2023-01-31 12:00:00,  Press Release: Greenidge Generation Restructures and Significantly Reduces Secured Debt,2023-01-31 12:00:00,0.008627530189142085,0
+2023-01-31 12:43:00,"  Dogecoin Is Soaring While Bitcoin Tumbles. Thank Elon Musk Again, of Course. -- Barrons.com",2023-01-31 12:43:00,0.008979075056463559,0
+2023-01-31 13:05:00,  Press Release: Bitcoin Well Announces Executive Promotions and User Growth Updates,2023-01-31 13:05:00,0.005438230999574856,0
+2023-01-31 15:58:00,  Press Release: Vortex Brands Expands Bitcoin Mining Operation,2023-01-31 15:58:00,-0.005864516516989493,0
+2023-01-31 16:07:00,  History Says Bitcoin Has Bottomed and Will Rally. This Time May Be Different. -- Barrons.com,2023-01-31 16:07:00,-0.005644178465195049,0
+2023-02-01 10:34:00,  Bitcoin Pauses as Crypto Traders Await the Fed Decision. Brace for Volatility. -- Barrons.com,2023-02-01 10:34:00,0.035498383547974965,1
+2023-02-01 12:06:00,  Press Release: Bitfarms Mines 486 Bitcoin in January,2023-02-01 12:06:00,0.03173321684776531,1
+2023-02-01 21:05:00,  Press Release: Cipher Mining Announces January 2023 Operational Update,2023-02-01 21:05:00,0.005313447734742072,0
+2023-02-01 21:12:00,  Press Release: TeraWulf Announces Proposed Public Offering of Common Stock,2023-02-01 21:12:00,0.004379981907393082,0
+2023-02-02 10:37:00,"  Bitcoin Eyes $24,000, Rallying After the Fed. The Jobs Report Is the Next Catalyst. -- Barrons.com",2023-02-02 10:37:00,-0.016211014762776976,-1
+2023-02-02 11:04:00,  Press Release: Digihost Regains Compliance With Nasdaq Minimum Bid Price Requirement and Provides Production Update,2023-02-02 11:04:00,-0.01516820754459236,-1
+2023-02-02 12:12:00,  Press Release: Cathedra Bitcoin Announces Leasing of 2.5-MW Bitcoin Mining Facility,2023-02-02 12:12:00,-0.012277866714360819,-1
+2023-02-02 13:42:00,  Press Release: TeraWulf Announces Beneficial Debt Modifications and Approximately $32 Million of New Equity Proceeds,2023-02-02 13:42:00,-0.01699840289962351,-1
+2023-02-02 14:00:00,  Press Release: CleanSpark Releases January 2023 Bitcoin Mining Update,2023-02-02 14:00:00,-0.018907896403921876,-1
+2023-02-02 16:10:00,  Press Release: TeraWulf Issues an Open Letter to Shareholders from Chairman and CEO,2023-02-02 16:10:00,-0.010733025418669717,0
+2023-02-02 21:01:00,  *MicroStrategy 4Q Loss/Shr $21.93 >MSTR,2023-02-02 21:01:00,-0.021060407800132408,-1
+2023-02-02 21:12:00,  *Fitch Affirms El Salvador at 'CC',2023-02-02 21:12:00,-0.017888710958679388,-1
+2023-02-02 23:30:00,  Press Release: Marathon Digital Holdings Announces Bitcoin Production and Mining Operation Updates for January 2023,2023-02-02 23:30:00,-0.002094636181998788,0
+2023-02-03 10:30:00,  Bitcoin Prices Rally as Larger Traders Take Charge -- WSJ,2023-02-03 10:30:00,-0.0015683223700537763,0
+2023-02-03 10:37:00,  Bitcoin Falls Back. But Traders Are Bullish Even as a Volatility Spike Likely Ahead. -- Barrons.com,2023-02-03 10:37:00,-0.002449518215834501,0
+2023-02-03 10:40:00,  Bitcoin Prices Rally as Larger Traders Take Charge,2023-02-03 10:40:00,-0.002609321115212504,0
+2023-02-04 07:32:00,  Bitcoin Rallies as Larger Traders Step In -- WSJ,2023-02-04 07:32:00,0.002753949235235531,0
+2023-02-04 12:02:00,  Press Release: ARGO SHAREHOLDER NOTICE: Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses Ex...,2023-02-04 12:02:00,0.0003048169642629883,0
+2023-02-06 10:41:00,  Bitcoin Is Slipping Back. Why This Week Could Test the Resolve of Crypto Bulls. -- Barrons.com,2023-02-06 10:41:00,0.0081804698402681,0
+2023-02-06 14:00:00,  Press Release: Riot Announces January 2023 Production and Operations Updates,2023-02-06 14:00:00,0.006487908221288086,0
+2023-02-06 21:00:00,"  Press Release: Bit Digital, Inc. Announces Monthly Production Update for January 2023",2023-02-06 21:00:00,0.009034506887686922,0
+2023-02-07 10:33:00,  Bitcoin's Rally Has Stalled. Where Crypto Prices Are Heading Next. -- Barrons.com,2023-02-07 10:33:00,0.00605292597173368,0
+2023-02-07 11:30:00,"  Press Release: Hut 8 and US Bitcoin announce merger of equals to create a preeminent digital asset mining, hosting, managed infrastructure...",2023-02-07 11:30:00,0.007902451921278919,0
+2023-02-07 11:30:00,"  *Hut 8 and US Bitcoin Announce Merger of Equals to Create a Preeminent Digital Asset Mining, Hosting, Managed Infrastructure Ops, and High...",2023-02-07 11:30:00,0.007902451921278919,0
+2023-02-07 12:35:00,  Press Release: Iris Energy Announces Monthly Investor Update for January 2023,2023-02-07 12:35:00,0.008590068266422612,0
+2023-02-07 16:10:00,  Press Release: Russian Cryptocurrency Money Launderer Pleads Guilty,2023-02-07 16:10:00,-0.004783349583059371,0
+2023-02-07 21:15:00,  Press Release: TeraWulf Announces January 2023 Production and Operations Updates,2023-02-07 21:15:00,-0.013421948382093096,-1
+2023-02-08 10:27:00,"  With Key Bitcoin Catalysts Ahead, Here's a Sign Traders Have More Conviction Than Ever -- Barrons.com",2023-02-08 10:27:00,-0.019972357583950995,-1
+2023-02-08 11:50:00,  *TotalEnergies: Fourth Quarter and Full-year 2022 Results,2023-02-08 11:50:00,-0.018901007613337573,-1
+2023-02-09 02:10:00,                             Core Scientific’s Equity Holders Want Their Voices Heard in Bankruptcy,2023-02-09 02:10:00,-0.04458224007513589,-1
+2023-02-09 10:23:00,  Bitcoin's Rally Loses Momentum. Expect a Drift Lower Before Volatility Next Week. -- Barrons.com,2023-02-09 10:23:00,-0.03980575303048772,-1
+2023-02-09 13:30:00,  Press Release: GSR II Meteora Acquisition Corp. Announces Filing and Mailing of Definitive Proxy Statement and Special Meeting Date for Proposed Business Combination with Bitcoin Depot                        ,2023-02-09 13:30:00,-0.042105712363787906,-1
+2023-02-09 13:34:00,"  Press Release: Mawson Infrastructure Group Inc. Breaks Ground on Sharon, PA 120 MW Bitcoin Mining Facility",2023-02-09 13:34:00,-0.04335889171634233,-1
+2023-02-09 21:00:00,  Press Release: CleanSpark Reports First Quarter FY2023 Financial Results,2023-02-09 21:00:00,-0.011906229907725163,-1
+2023-02-10 10:41:00,  Bitcoin and Ether Tumble as Regulatory Storm Clouds Gather Around Crypto -- Barrons.com,2023-02-10 10:41:00,-0.007902269240457005,0
+2023-02-10 11:30:00,"  Press Release: Ault Alliance, Inc. Subsidiary BitNile, Inc. Moving 6,572 Bitcoin Miners Out of Texas Hosted Facility",2023-02-10 11:30:00,-0.005213347123023571,0
+2023-02-10 14:21:00,  Press Release: SAI.TECH Announces Purchasing of 420 Whatsminer Bitcoin Mining Machines,2023-02-10 14:21:00,-0.0037971470307381905,0
+2023-02-13 10:52:00,  Bitcoin Falls With Regulatory Fears in Focus. Inflation Data Could Bring a Different Shock. -- Barrons.com,2023-02-13 10:52:00,0.009844308236609978,0
+2023-02-13 11:30:00,  Press Release: Hut 8 Mining Production and Operations Update for January 2023,2023-02-13 11:30:00,0.008432314471050084,0
+2023-02-13 12:08:00,  Press Release: Iris Energy Increases Self-Mining Capacity From 2.0 EH/s to 5.5 EH/s,2023-02-13 12:08:00,0.009677471610697985,0
+2023-02-13 22:37:00,  Press Release: GSR II Meteora Acquisition Corp. Announces Update on Proxy Statement for Proposed Business Combination with Bitcoin Depot                        ,2023-02-13 22:37:00,0.025792670555824904,1
+2023-02-14 11:02:00,"  Bitcoin Hovers Below $22,000 as Regulatory Scrutiny Weighs and CPI Data Loom -- Barrons.com",2023-02-14 11:02:00,0.020257419996873915,1
+2023-02-14 11:59:00,  Press Release: Bicycle Therapeutics Announces Phase I Dose Escalation Results from Ongoing Phase I/II Study of BT8009,2023-02-14 11:59:00,0.029967248683046677,1
+2023-02-14 14:00:00,  Press Release: CME Group to Launch Event Contracts on Bitcoin Futures on March 13,2023-02-14 14:00:00,0.044659884253104964,1
+2023-02-14 16:00:00,  PEGA Pool Announces the Official Launch of Its Eco-friendly Bitcoin Mining Pool,2023-02-14 16:00:00,0.0329771307811928,1
+2023-02-15 10:32:00,  Cryptos Are Rallying as Stocks Slide. But Bitcoin May Be 'Re-entering a Slumber.' -- Barrons.com,2023-02-15 10:32:00,0.11083199311595804,1
+2023-02-15 11:03:00,  Press Release: Akerna Provides Update on Recently Announced Transactions,2023-02-15 11:03:00,0.10539337584345199,1
+2023-02-15 21:40:00,  Press Release: Iris Energy Reports Second Quarter FY23 Results,2023-02-15 21:40:00,0.015685020533735994,1
+2023-02-15 23:19:00,                             Iris Energy Shares 15% Lower After 2Q Bitcoin Mining Rev Falls,2023-02-15 23:19:00,-0.013796733864717803,-1
+2023-02-16 10:57:00,  Bitcoin Soars to 6-Month Highs. If the Rally Is to Continue Watch This Price Level. -- Barrons.com,2023-02-16 10:57:00,-0.03530395345455006,-1
+2023-02-16 12:14:00,  Press Release: Bitcoin Well Reports 2022 Financial Results and Announces Closing of Secured Debenture,2023-02-16 12:14:00,-0.02724116217080974,-1
+2023-02-16 12:54:00,  Berkshire's Charlie Munger Praises China for Banning 'Worthless' Bitcoin -- Barrons.com,2023-02-16 12:54:00,-0.02916822566738786,-1
+2023-02-16 14:01:00,"  Press Release: CleanSpark Announces Purchase of 20,000 New Latest Generation Mining Machines",2023-02-16 14:01:00,-0.02440962728553364,-1
+2023-02-16 14:15:00,"  Crypto Crisis: Banks Back Away From Crypto Companies, Crypto Stocks and Bitcoin Prices Rally -- WSJ",2023-02-16 14:15:00,-0.024121068801299606,-1
+2023-02-16 15:40:00,"  NORWEGIAN BLOCK EX: Nbx, The Norwegian Cryptocurrency Exchange And Custodian, Partners With Blockbridge To Launch A Bitcoin Atm In Oslo",2023-02-16 15:40:00,-0.01371924864485552,-1
+2023-02-16 16:15:00,  Bitcoin's Future Depends on Six Mysterious Coders -- WSJ,2023-02-16 16:15:00,-0.019553639535547784,-1
+2023-02-17 07:33:00,  Tiny Group of Coders Is Critical to Bitcoin -- WSJ,2023-02-17 07:33:00,0.03466447627953029,1
+2023-02-17 10:41:00,  Bitcoin Is Falling as Investor Sentiment Sours Over Rate Hikes. Where the Slide Could Stop. -- Barrons.com,2023-02-17 10:41:00,0.03106057481297908,1
+2023-02-17 11:00:00,"  Press Release: BIT Mining Limited Announces Unaudited Financial Results for the Fourth Quarter and Full Year ended December 31, 2022",2023-02-17 11:00:00,0.030132123891235985,1
+2023-02-17 13:30:00,  *Mawson Infrastructure Installed Operational Capacity as of Jan 31 Was 50 Megawatts Across Bitcoin Self-Mining and Hosting Co-locations >MIGI,2023-02-17 13:30:00,0.03414668390724396,1
+2023-02-17 15:00:00,  Press Release: The Iconic Bored Ape Yacht Club to be Released as a Bitcoin NFT collection,2023-02-17 15:00:00,0.03233310646222898,1
+2023-02-20 10:36:00,"  Bitcoin Rises to Near $25,000. It Needs to Clear Key Levels Next to Keep the Rally Going. -- Barrons.com",2023-02-20 10:36:00,-0.0029776899144569047,0
+2023-02-20 11:47:00,  Press Release: Webtel.mobi and WM Holdings Inc. issue Joint Clarification on recent approaches by Digital Currency Group's Grayscale Bitcoin Trust Stakeholders,2023-02-20 11:47:00,-0.010830891250549701,0
+2023-02-20 21:05:00,  Press Release: Marathon Digital Holdings Schedules Conference Call for Fourth Quarter and Fiscal Year 2022 Financial Results,2023-02-20 21:05:00,-0.012099408478740359,-1
+2023-02-21 10:40:00,  Bitcoin Slips. There Are Signs Its Recent Rally Could Be Losing Steam. -- Barrons.com,2023-02-21 10:40:00,-0.02300657122816996,-1
+2023-02-21 11:30:00,  Press Release: Hut 8 advances its goal of achieving carbon neutrality by 2025 through innovative recycling program,2023-02-21 11:30:00,-0.024315191445593687,-1
+2023-02-21 11:46:00,"  Some FTX Customers Get Their Money Back -- in Japan, at Least -- WSJ",2023-02-21 11:46:00,-0.023002977456401563,-1
+2023-02-21 14:00:00,                             Athena Bitcoin Global Joins the Bitcoin Association of El Salvador (ASOBITCOIN) as Initial Member,2023-02-21 14:00:00,-0.019457151496135916,-1
+2023-02-21 14:00:00,  Press Release: Athena Bitcoin Global Joins the Bitcoin Association of El Salvador (ASOBITCOIN) as Initial Member,2023-02-21 14:00:00,-0.019457151496135916,-1
+2023-02-21 18:30:00,  Prolific Bitcoin Developer Marco Falke to Step Back -- WSJ,2023-02-21 18:30:00,-0.032249483620012565,-1
+2023-02-22 11:02:00,  Bitcoin Drops as Stocks Drag Down Cryptos. Just Wait for the Fed Minutes. -- Barrons.com,2023-02-22 11:02:00,0.00212710540024319,0
+2023-02-22 13:30:00,  Press Release: Bitcoin Depot Completes Software Conversion to Bitaccess Across Full Bitcoin ATM Fleet,2023-02-22 13:30:00,-0.001482835863361509,0
+2023-02-22 14:48:00,  Bitcoin Falls Ahead of Fed Minutes -- Market Talk,2023-02-22 14:48:00,-0.0016343964808102074,0
+2023-02-22 15:03:00,  UK Gilt Remit Expected to Decline to GBP246 Bln in FY2023-24 -- Market Talk,2023-02-22 15:03:00,0.0021915356071160463,0
+2023-02-22 15:23:00,  Pound May Fall as BOE Risks Ending Inflation Fight Too Soon -- Market Talk,2023-02-22 15:23:00,0.008563393230360372,0
+2023-02-22 15:36:00,  Improving Supply Chain Could Bring Inflation Below 4% -- Market Talk,2023-02-22 15:36:00,0.011807445098074743,1
+2023-02-22 16:43:00,  Canadian Dollar May Struggle to Rise Materially in Near Term -- Market Talk,2023-02-22 16:43:00,0.007859464021945595,0
+2023-02-22 16:53:00,  Inflation Expected to Decline at Slower Pace -- Market Talk,2023-02-22 16:53:00,0.00820961549044763,0
+2023-02-22 16:58:00,  Markets Expected To Feel Pressure If Minutes Point To Higher Hikes -- Market Talk,2023-02-22 16:58:00,0.006266880432545641,0
+2023-02-22 17:02:00,  Reaction to Minutes Expected to Be Reflected in FedWatch Tool -- Market Talk,2023-02-22 17:02:00,0.00789855575555709,0
+2023-02-22 17:07:00,  European Stocks Mostly Lower as Traders Await Fed Minutes -- Market Talk,2023-02-22 17:07:00,0.009446519616506999,0
+2023-02-22 18:10:00,  Agnico's Production Guidance Helps Prompt Lower Price Target At CIBC -- Market Talk,2023-02-22 18:10:00,-1.7649172274869507e-05,0
+2023-02-22 18:17:00,  Bitcoin Soars Over USD25K and MEXC (MX) Hits Intra-Year High,2023-02-22 18:17:00,0.0006451257932293952,0
+2023-02-22 18:23:00,  Debt-Ceiling Gridlock Expected to Hurt Markets If Unresolved -- Market Talk,2023-02-22 18:23:00,0.0006962652951458814,0
+2023-02-22 18:56:00,  Tighter Financing Seen As Threat to Frontier Markets -- Market Talk,2023-02-22 18:56:00,0.0045693084748359425,0
+2023-02-23 05:30:00,  This Bitcoin Fund Has Another $7 Billion of Untapped Value. Too Bad Investors Can't Get to It. -- Barrons.com,2023-02-23 05:30:00,-0.022292050243443384,-1
+2023-02-23 10:52:00,  Bitcoin Is Rising and May Hit the Highest Level in Months. But Stocks Must Cooperate. -- Barrons.com,2023-02-23 10:52:00,-0.016541819892701204,-1
+2023-02-23 17:27:00,  Satoshi Nakamoto's Last Unfinished Project Inspires This New Online Marketplace Disruptor In The Crypto Space,2023-02-23 17:27:00,-0.0300017780819527,-1
+2023-02-24 10:53:00,"  Bitcoin Slips Below $24,000 as Crypto Traders Eye PCE Inflation Data -- Barrons.com",2023-02-24 10:53:00,-0.03793529446510413,-1
+2023-02-25 02:30:00,  Bitcoin's $7 Billion Sunken Treasure -- Barron's,2023-02-25 02:30:00,-0.0018699619955943048,0
+2023-02-25 12:00:00,  Press Release: ARGO DEADLINE NOTICE: Securities Litigation Partner James (Josh) Wilson Encourages Investors Who Suffered Losses Exceed...,2023-02-25 12:00:00,0.012761363161632566,1
+2023-02-27 10:10:00,"  Bitcoin Rallies From Below $23,000 After Inflation-Data Stumble -- Barrons.com",2023-02-27 10:10:00,-0.004093233188155354,0
+2023-02-27 13:42:00,  Bullet Blockchain Announces First Patent Licensing Agreement With New Bitcoin ATM Kiosk Manufacturing Partner in USA,2023-02-27 13:42:00,-0.01590536208593807,-1
+2023-02-27 13:42:00,  Press Release: Bullet Blockchain Announces First Patent Licensing Agreement With New Bitcoin ATM Kiosk Manufacturing Partner in USA,2023-02-27 13:42:00,-0.01590536208593807,-1
+2023-02-27 14:30:00,  Press Release: Vortex Announces Investment Campaign To Expand Its Bitcoin Mining Capabilities,2023-02-27 14:30:00,-0.016661266034309175,-1
+2023-02-27 21:27:00,  Press Release: TeraWulf Sets Date for Fourth Quarter and Full Year 2022 Earnings Conference Call,2023-02-27 21:27:00,-0.005522964106522643,0
+2023-02-28 07:32:00,"  Crypto Miner, Creditors Clash On the Role of Shareholders -- WSJ",2023-02-28 07:32:00,0.014755002440841158,1
+2023-02-28 10:24:00,"  Bitcoin Stalls Below $24,000. But Long-Term Crypto Holders Are Still Buying. -- Barrons.com",2023-02-28 10:24:00,0.018934135282003384,1
+2023-02-28 17:21:00,  Press Release: Marathon Digital Holdings Cancels Conference Call and Postpones Publication of Fourth Quarter and Fiscal Year 2022 Financial Results,2023-02-28 17:21:00,0.009131893692795323,0
+2023-03-01 11:42:00,  *Ault Alliance Subsidiary Acquires Two Land Lease Agreements and Two Power Purchase Agreements in Montana From TypeX to Expand Bitcoin...,2023-03-01 11:42:00,-0.013584991834595384,-1
+2023-03-01 12:11:00,"  Press Release: Bitfarms Mines 387 BTC in February, Exceeding 20,000 BTC",2023-03-01 12:11:00,-0.013629186649255831,-1
+2023-03-01 12:58:00,  Bitcoin Starts March on the Right Foot. History Says It May Not End That Way. -- Barrons.com,2023-03-01 12:58:00,-0.01564272134039757,-1
+2023-03-01 16:08:00,  BitCard® and Blackhawk Network (BHN) to Offer Bitcoin Gift Cards at Select U.S. Retailers,2023-03-01 16:08:00,-0.01131875105770852,0
+2023-03-01 16:58:00,  Press Release: LQwD Becomes First Third-Party Lighting Service Provider with Leading Lightning Network Wallet,2023-03-01 16:58:00,-0.01749476988551346,-1
+2023-03-01 21:05:00,  *Jazz Pharmaceuticals 4Q Loss/Shr $3.82 >JAZZ,2023-03-01 21:05:00,0.002244326212472947,0
+2023-03-01 21:10:00,  Press Release: Cipher Mining Announces February 2023 Operational Update,2023-03-01 21:10:00,0.0029974247296951084,0
+2023-03-01 21:18:00,  Press Release: TeraWulf Announces Closing of $28 Million Underwritten Equity Offering and Over-Allotment Option,2023-03-01 21:18:00,0.0009924963010836674,0
+2023-03-02 10:55:00,  Bitcoin Is Falling. Traders May Be Eyeing Trouble at Another Crypto Industry Giant. -- Barrons.com,2023-03-02 10:55:00,-0.04336021802001078,-1
+2023-03-02 11:04:00,  Press Release: Digihost Provides February 2023 Production Update,2023-03-02 11:04:00,-0.04417905240447639,-1
+2023-03-02 14:00:00,  Press Release: CleanSpark Releases February 2023 Bitcoin Mining Update,2023-03-02 14:00:00,-0.039355102895778704,-1
+2023-03-02 21:14:00,  Press Release: Marathon Digital Holdings Announces Bitcoin Production and Mining Operation Updates for February 2023,2023-03-02 21:14:00,-0.05161749740474253,-1
+2023-03-02 22:00:00,"  Press Release: Riot Reports Full Year 2022 Financial Results, Current Operational and Financial Highlights",2023-03-02 22:00:00,-0.050546784743413786,-1
+2023-03-03 10:58:00,  Bitcoin Tumbles as Silvergate Fears Wipe Out Bullish Crypto Traders -- Barrons.com,2023-03-03 10:58:00,-0.0013571457637154838,0
+2023-03-03 14:00:00,  Press Release: Riot Announces February 2023 Production and Operations Updates,2023-03-03 14:00:00,-0.0021802254179806857,0
+2023-03-04 23:00:00,  Press Release: ODoge Solidifies its Place in Bitcoin and Memecoin History with Acquisition of First-ever DOGE Ordinal for 10BTC,2023-03-04 23:00:00,0.00456234729787286,0
+2023-03-04 23:00:00,  ODoge Solidifies its Place in Bitcoin and Memecoin History with Acquisition of First-ever DOGE Ordinal for 10BTC,2023-03-04 23:00:00,0.00456234729787286,0
+2023-03-06 11:06:00,  Bitcoin Pauses Amid Crypto Bank Pressures. Analysts Eye a 'Death Cross' With Caution. -- Barrons.com,2023-03-06 11:06:00,-0.00038044053406349754,0
+2023-03-06 13:20:00,  Press Release: TeraWulf Announces Energization and Rapid Deployment of Mining Operations at the Nautilus Facility in Pennsylvania,2023-03-06 13:20:00,0.0008973368881393107,0
+2023-03-06 21:02:00,"                             FTX's Alameda Research Sues Grayscale Over Fees, Redemptions -- WSJ",2023-03-06 21:02:00,-0.012668194555107037,-1
+2023-03-06 22:00:00,"  Press Release: Bit Digital, Inc. Announces Monthly Production Update for February 2023",2023-03-06 22:00:00,-0.01546056667625928,-1
+2023-03-07 10:15:00,  Press Release: Canaan Inc. Reports Unaudited Fourth Quarter and Full Year 2022 Financial Results,2023-03-07 10:15:00,-0.017230891174657925,-1
+2023-03-07 11:03:00,                             Silvergate's Crisis May Mark Bitcoin's Near-Term Top. Brace for a Bumpy Ride. -- Barrons.com,2023-03-07 11:03:00,-0.012659257118067813,-1
+2023-03-07 11:30:00,  Press Release: Hut 8 Mining Production and Operations Update for February 2023,2023-03-07 11:30:00,-0.012816812297705593,-1
+2023-03-07 12:19:00,  Press Release: Iris Energy Announces Monthly Investor Update for February 2023,2023-03-07 12:19:00,-0.012614049066403066,-1
+2023-03-07 15:43:00,  Bitcoin Falls Slightly Amid Silvergate Worries -- Market Talk,2023-03-07 15:43:00,-0.009637200883231278,0
+2023-03-07 18:30:00,                             Grayscale Bitcoin Trust Rises as SEC Case Starts -- WSJ,2023-03-07 18:30:00,-0.013024611119888507,-1
+2023-03-07 19:01:00,  Largest Bitcoin Fund Soars as Judges Raise Hope for Investor Payday -- Barrons.com,2023-03-07 19:01:00,-0.008531032700641372,0
+2023-03-07 21:05:00,  *Zymeworks 4Q EPS $4.65 >ZYME,2023-03-07 21:05:00,0.0008403635444407254,0
+2023-03-08 10:49:00,  Bitcoin Falls as Cryptos Get Pinched From All Sides. Key Price Levels Are at Risk. -- Barrons.com,2023-03-08 10:49:00,-0.020738038851433105,-1
+2023-03-08 11:41:00,  This Recession Signal Is Flashing Red. Why Stock Traders Aren't Panicking. -- Barrons.com,2023-03-08 11:41:00,-0.019854262038592974,-1
+2023-03-08 13:10:00,  Press Release: TeraWulf Announces February 2023 Production and Operations Updates,2023-03-08 13:10:00,-0.017433107631439237,-1
+2023-03-08 14:10:00,  Press Release: Core Scientific Announces February 2023 Production and Operations Updates,2023-03-08 14:10:00,-0.010669776826035093,0
+2023-03-08 16:45:00,  GBTC Discount Narrows to Five-Month Low After Grayscale-SEC Hearing -- WSJ,2023-03-08 16:45:00,-0.02692488174745422,-1
+2023-03-08 22:16:00,  Press Release: Marathon Digital Holdings Prepays Term Loan in Whole and Terminates Credit Facilities,2023-03-08 22:16:00,-0.0747668908069139,-1
+2023-03-08 22:17:00,  Crypto Crisis: A Timeline of Key Events -- WSJ,2023-03-08 22:17:00,-0.07647888944524561,-1
+2023-03-09 10:24:00,                             Silvergate's Collapse Pushes Crypto Traders Beyond Reach of Regulators. Why It's a Risk. -- Barrons.com,2023-03-09 10:24:00,-0.08238645557202395,-1
+2023-03-09 11:19:00,  Bitcoin Is Falling. Its Early 2023 Rally Could Be Just 'A Blip in a Bear Market.' -- Barrons.com,2023-03-09 11:19:00,-0.0928118429390663,-1
+2023-03-09 11:30:00,  Press Release: Hut 8 Reports Operating and Financial Results for 2022,2023-03-09 11:30:00,-0.09166827613037487,-1
+2023-03-09 12:22:00,  Xapo Bank Becomes the First Bank to Offer Near-Instant Bitcoin Payments On the Lightning Network Powered by Lightspark,2023-03-09 12:22:00,-0.08404089588963637,-1
+2023-03-09 13:30:00,  *Mawson Infrastructure's Installed Operational Capacity as of Feb 28 Was 50 Megawatts >MIGI,2023-03-09 13:30:00,-0.07251658338947053,-1
+2023-03-09 15:45:00,"  Crypto Crisis Latest: Fed's Barr Warns Banks on Crypto, Silvergate Stock Plummets, Bitcoin Price and More -- WSJ",2023-03-09 15:45:00,-0.08487876402999028,-1
+2023-03-10 11:04:00,"  Bitcoin Plunges Below $20,000 With 'Little Reason to Buy.' It Could Get Worse Fast. -- Barrons.com",2023-03-10 11:04:00,0.02121987961774585,1
+2023-03-10 21:30:00,"  Crypto Crisis Latest: Bitcoin Falls Below $20,000, N.Y. Attorney General Alleges That Ether is a Security and More -- WSJ",2023-03-10 21:30:00,0.017075692965355938,1
+2023-03-11 11:45:00,  Crypto Crisis: A Timeline of Key Events -- Update,2023-03-11 11:45:00,0.02191451516413534,1
+2023-03-13 06:45:00,  EQS-News: Northern Data releases its February 2023 results for its Mining division,2023-03-13 06:45:00,0.08887370192890809,1
+2023-03-13 10:30:00,  Press Release: Hut 8 Provides Update on Business Combination with USBTC,2023-03-13 10:30:00,0.10710964198147055,1
+2023-03-13 10:42:00,  Bitcoin Soars in Rebound From Bank Crisis Selloff. It May Be Too Good to Be True. -- Barrons.com,2023-03-13 10:42:00,0.10461049673344092,1
+2023-03-13 11:57:00,"  Press Release: Iris Energy Commences 5.5 EH/s Installation and Confirms No Deposits with Silicon Valley Bank, Silvergate Capital, or Signature Bank",2023-03-13 11:57:00,0.11804154463607786,1
+2023-03-13 12:30:00,"  Press Release: LM Funding America, Inc. Signs Contract to Host 500 Bitcoin Mining Machines",2023-03-13 12:30:00,0.141286169275598,1
+2023-03-13 13:00:00,  Press Release: CME Group Announces First Day of Trading of Event Contracts on Bitcoin Futures,2023-03-13 13:00:00,0.18152985866378457,1
+2023-03-13 14:04:00,"  Press Release: Marathon Digital Holdings Responds to Closure of Signature Bank, New York, NY",2023-03-13 14:04:00,0.14549965099787943,1
+2023-03-13 14:37:00,  Press Release: SAI.TECH Announces Deployment of 420 Bitcoin Mining Machines in Mexico,2023-03-13 14:37:00,0.10677024472435126,1
+2023-03-13 14:38:00,  Press Release: INX Announces the Listing of Hashrate Asset Group's (HAG) Bitcoin Mining Security Token,2023-03-13 14:38:00,0.10939007894911712,1
+2023-03-13 17:23:00,"  Bitcoin Surges 12%, Binance CEO Pledges to Buy Crypto -- WSJ",2023-03-13 17:23:00,0.07324237939897982,1
+2023-03-13 18:36:00,"  Press Release: Ault Alliance Subsidiary Achieves Bitcoin Mining Production Milestone of 1,000 Bitcoin Mined to Date at Its Michigan Data...",2023-03-13 18:36:00,0.05375175999268045,1
+2023-03-13 21:36:00,  Exchange Traded Funds Top 10 Percentage Gainers,2023-03-13 21:36:00,0.016495487987888247,1
+2023-03-14 10:02:00,  Bitcoin's Rally Is Back On. The Reason Why Means Tuesday's CPI Data Are a Big Risk. -- Barrons.com,2023-03-14 10:02:00,0.012145742319870534,1
+2023-03-14 11:00:00,  Press Release: Cipher Mining Provides Fourth Quarter and Full Year 2022 Business Update,2023-03-14 11:00:00,-0.0046792640295733046,0
+2023-03-14 12:33:00,  Press Release: DMG Blockchain Solutions Reports February Mining Results,2023-03-14 12:33:00,-0.004565256465387524,0
+2023-03-14 17:04:00,  Press Release: TeraWulf Addresses U.S. Bank Closures,2023-03-14 17:04:00,-0.07096944499949165,-1
+2023-03-15 09:50:00,  Bitcoin on Its Best Winning Streak Since the Last Bull Market. What Comes Next. -- Barrons.com,2023-03-15 09:50:00,0.0034256459621115898,0
+2023-03-15 12:30:00,  Press Release: Compass Therapeutics Reports Fourth Quarter and Full Year 2022 Financial Results and Provides Business Update,2023-03-15 12:30:00,-0.00498519475333814,0
+2023-03-15 15:27:00,  Press Release: Justice Department Investigation Leads to Takedown of Darknet Cryptocurrency Mixer that Processed Over $3 Billion of Unlawful...,2023-03-15 15:27:00,0.0112141724295447,1
+2023-03-16 09:46:00,  The Best of Bitcoin's Latest Rally Is Over. Watch This Key Level for the Next Move. -- Barrons.com,2023-03-16 09:46:00,0.055474485628506764,1
+2023-03-16 12:35:00,  Press Release: Hashdex Celebrates Six-Month Anniversary of World's First Bitcoin Futures ETF Registered Solely Under '33 Act by Ringing NYSE...,2023-03-16 12:35:00,0.07082561135469878,1
+2023-03-16 22:19:00,  *Marathon Digital 4Q Loss/Shr $3.14 >MARA,2023-03-16 22:19:00,0.08929372233219923,1
+2023-03-17 05:00:00,  Why Buying Bitcoin on the Weekends Is a Costly Idea Now -- Barrons.com,2023-03-17 05:00:00,0.06234590383583094,1
+2023-03-17 10:08:00,  Bitcoin Rallies Into a New Bull Market. The Case for Crypto Beating the S&P 500. -- Barrons.com,2023-03-17 10:08:00,0.03657346718345367,1
+2023-03-17 12:02:00,  Investors Flee Crypto Funds at Record Rate Despite Bitcoin's Bullish Turn -- Barrons.com,2023-03-17 12:02:00,0.020070659551125747,1
+2023-03-17 12:16:00,  Bitcoin Rises to 9-Month High as Risk Sentiment Recovers -- Market Talk,2023-03-17 12:16:00,0.02585108073982778,1
+2023-03-17 12:38:00,  Bitcoin Price Jumps to Highest Level Since June -- WSJ,2023-03-17 12:38:00,0.03986691478565674,1
+2023-03-17 13:02:00,  US Homes Sales Rise 16.8% in February -- Market Talk,2023-03-17 13:02:00,0.028815710178125453,1
+2023-03-17 13:08:00,                             SVB Fallout Continues With Bankruptcy -- Market Talk,2023-03-17 13:08:00,0.029628180244531288,1
+2023-03-17 13:41:00,  UK Budget's Pension Changes Are More Material Than Might First Appear -- Market Talk,2023-03-17 13:41:00,0.03362550828335964,1
+2023-03-17 13:58:00,  Sterling Could Fall as BOE Cautious Despite High Inflation -- Market Talk,2023-03-17 13:58:00,0.03725422611708007,1
+2023-03-17 14:10:00,"  Canada Still Expected to See Mild Recession This Year, Says Scotiabank -- Market Talk",2023-03-17 14:10:00,0.0359602373434571,1
+2023-03-17 14:58:00,  Japanese Yen Could Further Challenge Dollar as Preferred Safe Haven -- Market Talk,2023-03-17 14:58:00,0.04718016572691863,1
+2023-03-17 15:07:00,  UK's February Core Service Inflation Could Be Below BOE's Expectations -- Market Talk,2023-03-17 15:07:00,0.04088596647226117,1
+2023-03-17 15:26:00,  Treasury Yields Fall as Banking Worries Spur Haven Buying -- Market Talk,2023-03-17 15:26:00,0.04027719156815501,1
+2023-03-17 15:36:00,  Banking Woes Makes BOC Inflation Control More Complex -- Market Talk,2023-03-17 15:36:00,0.03153153665485675,1
+2023-03-17 16:15:00,  Two Rate Raises and Fewer Anticipated Cuts Will Support Dollar -- Market Talk,2023-03-17 16:15:00,0.029434040625236024,1
+2023-03-17 17:19:00,  US Banking Turmoil Unlikely to Hit Consumer Confidence Hard -- Market Talk,2023-03-17 17:19:00,0.025300051326794026,1
+2023-03-19 21:14:00,  Bitcoin Is Rising After UBS-Credit Suisse Deal -- Barrons.com,2023-03-19 21:14:00,-0.0004051885478562056,0
+2023-03-20 12:20:00,  *TeraWulf Announces It Has Deployed BITMAIN Miners at the Nuclear-Powered Nautilus Facility,2023-03-20 12:20:00,-0.005805898311764923,0
+2023-03-20 20:05:00,  Press Release: Cipher Mining Announces Leadership Team Promotions,2023-03-20 20:05:00,0.0087282994363862,0
+2023-03-21 10:02:00,  Bitcoin Slips but Cryptos Show Signs of Strength With Fed Decision in Focus -- Barrons.com,2023-03-21 10:02:00,0.006738987684671738,0
+2023-03-21 10:52:00,  Fed Faces Toughest Test Yet -- Reducing Inflation Without Breaking the Banks -- Barrons.com,2023-03-21 10:52:00,0.006798825130985842,0
+2023-03-21 11:03:00,  Press Release: Bitfarms Reports Fourth Quarter and Full Year 2022 Results,2023-03-21 11:03:00,0.005677766157558217,0
+2023-03-21 11:30:00,  Press Release: Valour Expands Product Offering Access in France a Key Market for Expansion,2023-03-21 11:30:00,0.00754874140533679,0
+2023-03-21 11:31:00,  Crypto and Coinbase Bull Run Call. Stock Price Seen Tripling. -- Barrons.com,2023-03-21 11:31:00,0.008392368191295185,0
+2023-03-21 12:30:00,  Press Release: Leading Bitcoin ATM Operator Bitcoin Depot Announces Retail Partnership with GetGo(R) Café + Market,2023-03-21 12:30:00,0.008936750110882796,0
+2023-03-21 15:36:00,  Bitcoin Booms on Back of Bank Crisis -- WSJ,2023-03-21 15:36:00,0.020906024044799798,1
+2023-03-22 06:32:00,  Bitcoin Receives a Boost From the Turbulence in Banking -- WSJ,2023-03-22 06:32:00,-0.01716359252150912,-1
+2023-03-22 10:07:00,  Bitcoin Rises Ahead of Fed Decision. Crypto Traders Are Poised to Push Prices Higher. -- Barrons.com,2023-03-22 10:07:00,-0.01676923624204052,-1
+2023-03-22 10:30:00,  Press Release: Ault Alliance Provides 2023 Revenue Guidance of More Than $200 Million,2023-03-22 10:30:00,-0.01762701406016698,-1
+2023-03-22 11:58:00,  Coinbase Stock Sees a Record Winning Streak. Americans Are Bullish on Crypto Again. -- Barrons.com,2023-03-22 11:58:00,-0.019465287555545996,-1
+2023-03-22 12:15:00,"  Press Release: Bit Digital Announces Strategic Executive Leadership Realignment, Advisory Board and Strategic Priorities for 2023",2023-03-22 12:15:00,-0.02050304096385369,-1
+2023-03-22 13:46:00,  Press Release: Navier brings Bitcoin mining to Ethereum with Reactor.xyz Marketplace,2023-03-22 13:46:00,-0.03271993983970933,-1
+2023-03-22 17:40:00,  One S&P 500 Stock Is Beating Bitcoin This Year. It's Not Tesla or Meta. -- Barrons.com,2023-03-22 17:40:00,-0.004691564097785594,0
+2023-03-22 20:58:00,                             Binance Charging Fees for Bitcoin Trading Again -- WSJ,2023-03-22 20:58:00,0.03616877368749649,1
+2023-03-23 09:38:00,  Bitcoin Edges Lower. Crypto Traders Pause Before Another Rally. -- Barrons.com,2023-03-23 09:38:00,0.01753965954364367,1
+2023-03-23 11:05:00,  Press Release: Iris Energy provides 5.5 EH/s installation update,2023-03-23 11:05:00,0.01496011891813498,1
+2023-03-23 13:00:00,  Press Release: CleanSpark Releases ESG and Corporate Responsibility Report,2023-03-23 13:00:00,0.021049541236342728,1
+2023-03-23 14:21:00,"  Bitcoin, Crypto Retreat as Stock Markets Rise -- WSJ",2023-03-23 14:21:00,0.02110555149744342,1
+2023-03-23 20:07:00,  *Mawson Infrastructure 4Q Rev $16.8M >MIGI,2023-03-23 20:07:00,-0.034354790568102644,-1
+2023-03-24 07:30:00,  EQS-News: Samara Asset Group has changed its Ticker Symbol to SRAGv,2023-03-24 07:30:00,-0.027278189039313894,-1
+2023-03-24 09:47:00,"  Bitcoin Rises With $30,000 in Sight. The Weekend Could Bring the Wildest Moves. -- Barrons.com",2023-03-24 09:47:00,-0.019440242597217217,-1
+2023-03-27 09:23:00,  Bitcoin's Rally Stalls. Crypto Traders May Wait Until Friday for a Big Move. -- Barrons.com,2023-03-27 09:23:00,-0.03462509116152945,-1
+2023-03-27 12:59:00,                             Silvergate Takes $44 Million Loss on Bitcoin Loan -- WSJ,2023-03-27 12:59:00,-0.02761694688898997,-1
+2023-03-27 15:45:00,"                             MicroStrategy Snaps Up More Bitcoins, Pays Off Silvergate Loan -- WSJ",2023-03-27 15:45:00,0.0032110576079422692,0
+2023-03-28 09:27:00,  Bitcoin and Other Cryptos Fall. It's Not All Because of Binance. -- Barrons.com,2023-03-28 09:27:00,0.05454219154341122,1
+2023-03-28 10:30:00,  Press Release: Hut 8 provides update on North Bay Facility,2023-03-28 10:30:00,0.059608626573602,1
+2023-03-28 11:00:00,"  Press Release: Galaxy Announces Fourth Quarter, Full Year 2022 Financial Results and Preliminary Results for the First Quarter to Date",2023-03-28 11:00:00,0.05819773268592776,1
+2023-03-28 12:04:00,"  Press Release: Bitcoin Well Launches Bitcoin Well Infinite and Expands to USA, With Other Updates",2023-03-28 12:04:00,0.04385074535582589,1
+2023-03-28 12:56:00,                             MicroStrategy Has Rallied With Bitcoin. It Bought Crypto -- and Sold Stock. -- Barrons.com,2023-03-28 12:56:00,0.0542954505668618,1
+2023-03-28 14:33:00,  *Former Russia State TV Hosts Advise El Salvador on Bitcoin Adoption -- WSJ,2023-03-28 14:33:00,0.05348902895879171,1
+2023-03-28 17:30:00,  Press Release: TwelveFold to Voodling: Milkcrate's Entry in the Bitcoin Ordinals Movement is One to Watch,2023-03-28 17:30:00,0.05247754671595284,1
+2023-03-28 17:30:00,  TwelveFold to Voodling: Milkcrate's Entry in the Bitcoin Ordinals Movement is One to Watch,2023-03-28 17:30:00,0.05247754671595284,1
+2023-03-28 19:16:00,                             Coinbase Has Held Up Despite the Regulatory Crypto Crackdown. What It Says About the Stock. -- Barrons.com,2023-03-28 19:16:00,0.04195331607346109,1
+2023-03-29 06:32:00,  N.Y. Couple Guides El Salvador on Bitcoin -- WSJ,2023-03-29 06:32:00,0.019407023626452524,1
+2023-03-29 09:21:00,"  Cryptos Bounce Back From Binance Wobble. Bitcoin Is on a Road to $36,000. -- Barrons.com",2023-03-29 09:21:00,0.0011593363561850367,0
+2023-03-29 10:45:00,"  *Ault Alliance's Subsidiary, BitNile Inc., Collaborates With Core Scientific for Bitcoin Mining Expansion",2023-03-29 10:45:00,0.006368751373866388,0
+2023-03-29 12:55:00,  Press Release: Stronghold Digital Mining Reports Fourth Quarter and Full Year 2022 Results and Provides Operational Update,2023-03-29 12:55:00,0.007954457466652576,0
+2023-03-29 16:00:00,  Bitcoin Is Consuming More Energy Than Ever. Rising Crypto Prices Aren't All Good. -- Barrons.com,2023-03-29 16:00:00,-0.005554852320675097,0
+2023-03-30 09:19:00,  Bitcoin Traders Eye Economic Data to Keep the Crypto Rally Going -- Barrons.com,2023-03-30 09:19:00,-0.02479039351661194,-1
+2023-03-30 15:00:00,"  Core's Revolutionary Satoshi Plus Consensus Marries Decentralization, Security, and Scalability",2023-03-30 15:00:00,0.004863942680392919,0
+2023-03-30 20:10:00,  Press Release: TeraWulf Reports Fourth Quarter and Full Year 2022 Results and Provides Operational Update,2023-03-30 20:10:00,0.017765408505907798,1
+2023-03-31 09:34:00,  Bitcoin Slips Ahead of Inflation Data. Cryptos Are Closing Out a Remarkable Quarter. -- Barrons.com,2023-03-31 09:34:00,0.02134120291088215,1
+2023-03-31 12:00:00,"  Press Release: LM Funding America, Inc. Provides Year-End Business Update; Reports Successful Repositioning into Bitcoin Mining Strategy",2023-03-31 12:00:00,0.01608935266586209,1
+2023-03-31 12:02:00,  Press Release: Greenidge Generation Reports Fourth Quarter and Full Year 2022,2023-03-31 12:02:00,0.015598479694851175,1
+2023-03-31 17:45:00,  Bitcoin on Pace for Best Quarter Since 2021 -- WSJ,2023-03-31 17:45:00,0.0026603207227251513,0
+2023-03-31 18:28:00,"                             Investview, Inc. (""INVU"") Announces Financial Results for the Twelve Months Ended December 31, 2022",2023-03-31 18:28:00,0.000303501168303022,0
+2023-03-31 18:28:00,"  Press Release: Investview, Inc. (""INVU"") Announces Financial Results for the Twelve Months Ended December 31, 2022",2023-03-31 18:28:00,0.000303501168303022,0
+2023-03-31 20:33:00,  Crypto Beat Other Assets in the First Quarter. But the Rally Is on Shaky Ground. -- Barrons.com,2023-03-31 20:33:00,0.0053874078991575924,0
+2023-03-31 21:25:00,  Press Release: Marathon Digital Holdings' CFO Hugh Gallagher To Retire in May 2023,2023-03-31 21:25:00,0.0012791297277974234,0
