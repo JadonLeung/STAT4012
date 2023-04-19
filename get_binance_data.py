@@ -22,5 +22,5 @@ def get_binance_data(ticker, start, end):
     return df
 
 
-data = get_binance_data('BTCUSDT', "1 Oct, 2021", "31 Dec, 2023")
-data.to_csv('BTCUSDT_1min_2.csv')
+data = get_binance_data('BTCUSDT', "1 April, 2022", "31 Mar, 2023")
+data.to_csv('BTCUSDT_1min.csv')
