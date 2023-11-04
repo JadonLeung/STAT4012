@@ -43,6 +43,15 @@ def text_cleaning(data):
         corpus.append(text)
     return corpus
 
+words = data_train.heading.str.split()
+value_counts = pd.Series([word for sentence in words for word in sentence]).value_counts()
+to_remove = value_counts[value_counts > 100].index
+words = words.apply(lambda sentence: [word for word in sentence if word not in to_remove])
+data_train.heading = words.str.join(' ')
+words = data_test.heading.str.split()
+words = words.apply(lambda sentence: [word for word in sentence if word not in to_remove])
+data_test.heading = words.str.join(' ')
+
 text_train = text_cleaning(data_train['heading'])
 text_test = text_cleaning(data_test['heading'])
 
